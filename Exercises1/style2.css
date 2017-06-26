@@ -1,0 +1,45 @@
+.main {
+	line-height: 1.5;
+	width: 500px;
+	border: solid 1px #0033FF;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font: 11px;
+}
+.row {
+	width: 100%;
+	display: block;
+	clear: both;
+}
+.row .title {
+	width: 100%
+	line-height: 100%;
+	font-weight: bold;
+}
+.player-profile {
+	background: url('title_bg.gif') repeat-x bottom;
+}
+.Profile {
+	height: 100px;
+	width: 100%;
+	float: left;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+.player-profile-image {
+	float: left;
+	height: 90px;
+	width: 100px;
+}
+.player-profile img {
+	width: 90px;
+	height: 100px;
+}
+.player-profile-info {
+	float: left;
+	width: 79.5%;
+	height: 100px;
+	overflow: scroll;
+}
+.row .info {
+	line-height: 100%;
+}
