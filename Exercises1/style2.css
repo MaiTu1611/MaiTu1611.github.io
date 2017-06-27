@@ -3,7 +3,7 @@
 	width: 500px;
 	border: solid 1px #0033FF;
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	font: 11px;
+	font: 15px;
 }
 .row {
 	width: 100%;
@@ -14,16 +14,19 @@
 	width: 100%
 	line-height: 100%;
 	font-weight: bold;
+	padding-left: 2px;
+
 }
 .player-profile {
-	background: url('title_bg.gif') repeat-x bottom;
+	background: url('image_css/title_bg.gif') repeat-x bottom;
 }
-.Profile {
+.profile {
 	height: 100px;
 	width: 100%;
 	float: left;
 	padding-bottom: 20px;
 	padding-top: 5px;
+	font-size: 15px;
 }
 .player-profile-image {
 	float: left;
@@ -42,4 +45,63 @@
 }
 .row .info {
 	line-height: 100%;
+	font-size: 15px;
+	padding-bottom: 30px;
+
+}
+.comment {
+	font-size: 14px;
+	margin-left: 4px;
+}
+.comment .comment-content {
+	background: #ECECEC;
+}
+.comment .comment-user {
+	background: url(image_css/comment_bt.gif) no-repeat;
+	font-size: 12px;
+	padding-left: 60px;
+}
+.comment .comment-user a {
+	color: blue;
+}
+.form {
+	padding: 0px 0px 0;
+	margin-top: 35px;
+	margin-left: 3px;
+	line-height: 100%;
+
+}
+.form .form-title {
+	text-align: center;
+	line-height: 30%;
+}
+.form .form-comment-content {
+	padding: 11px 3px 0 0;
+}
+.form .form-comment-label {
+	float: left;
+	width: 24%;
+	padding: 0 5px;
+	line-height: 100%;
+	text-align: left;
+	padding-bottom: 1px;
+}
+.form .form-comment-input {
+}
+.table-title{
+	margin: 30px 3px 0 0;
+	text-align: center;
+	font-weight: bold;
+	line-height: 100%;
+}
+.table {
+	line-height: 100%;
+	padding-left: 5px;
+}
+.table .table-label {
+	width: 24%;
+	font-size: 14px;
+}
+#textarea {
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
