@@ -1,144 +1,126 @@
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
+.main {
+  line-height: 1.5;
+  width: 500px;
+  border: solid 1px #0033FF;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font: 15px;
 }
 
-.main{
-	line-height: 1.5;
-	width: 500px;
-	border: solid 1px #0033FF;
-	font: 11pt;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+.row {
+  width: 100%;
+  display: block;
+  clear: both;
 }
 
-.row{
-	width: 100%;
-	display: block;
-	clear: both;
+.row .title {
+  width: 100%
+	line-height: 100%;
+  font-weight: bold;
+  padding-left: 2px;
 }
 
-.row .title{
-	font-weight: bold;
-	height: 25px;
-	width: 100%;
+.player-profile {
+  background: url('image_css/title_bg.gif') repeat-x bottom;
 }
 
-.profile{
-	height: 100px;
-	width: 100%;
-	float:left;
-	padding-bottom: 20px;
+.profile {
+  height: 100px;
+  width: 100%;
+  float: left;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  font-size: 15px;
 }
 
-.title-player-profile{
-	background: url('image/title_bg.gif') repeat-x bottom;
+.player-profile-image {
+  float: left;
+  height: 90px;
+  width: 100px;
 }
 
-.player-profile-image{
-	width: 100px;
-	height: 90px;
-	float: left;
+.player-profile img {
+  width: 90px;
+  height: 100px;
 }
 
-.player-profile img{
-	width: 100px;
-	height: 90px;
+.player-profile-info {
+  float: left;
+  width: 79.5%;
+  height: 100px;
+  overflow: scroll;
 }
 
-.player-profile-content{
-	float: left;
-	width: 70%;
-	height: 112px;
-	overflow: scroll;
+.row .info {
+  line-height: 100%;
+  font-size: 15px;
+  padding-bottom: 30px;
 }
 
-.row .content ul{
-	padding-bottom: 20px;
+.comment {
+  font-size: 14px;
+  margin-left: 4px;
 }
 
-.row .content li{
-	margin-left: 20px;
-	line-height: 1;
+.comment .comment-content {
+  background: #ECECEC;
 }
 
-.comment{
-	width: 100%;
-	width: 98%;
-	padding: 0 5px;
+.comment .comment-user {
+  background: url(image_css/comment_bt.gif) no-repeat;
+  font-size: 12px;
+  padding-left: 60px;
 }
 
-.comment .comment-content{
-	background: #ECECEC;	
-	padding: 5px;
+.comment .comment-user a {
+  color: blue;
 }
 
-.comment .comment-user{
-	background-image: url('image/comment_bt.gif');
-    background-repeat: no-repeat;
-    padding-left: 55px;
+.form {
+  padding: 0px 0px 0;
+  margin-top: 35px;
+  margin-left: 3px;
+  line-height: 100%;
 }
 
-.comment .comment-user a{
-	color: blue;
+.form .form-title {
+  text-align: center;
+  line-height: 30%;
 }
 
-.comment-form{
-	padding: 20px 5px 0;	
+.form .form-comment-content {
+  padding: 11px 3px 0 0;
 }
 
-.comment-form .comment-form-tile{
-	text-align: center;
-	font-weight: bold;
-	font-size: 16pt;
+.form .form-comment-label {
+  float: left;
+  width: 24%;
+  padding: 0 5px;
+  line-height: 100%;
+  text-align: left;
+  padding-bottom: 1px;
 }
 
-.comment-form .form-label{
-	float: left;
-	width: 23%;
-	padding: 0 5px;
-	line-height: 26px;
+
+
+.table-title {
+  margin: 30px 3px 0 0;
+  text-align: center;
+  font-weight: bold;
+  line-height: 100%;
 }
 
-.comment-form input[type="text"]{
-	padding: 4px;
+.table {
+  line-height: 100%;
+  padding-left: 5px;
 }
 
+.table .table-label {
+  width: 23%;
+  font-size: 14px;
+}
+
+#textarea {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 380px;
+  height: 80px;
+}

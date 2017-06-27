@@ -47,7 +47,9 @@
 	line-height: 100%;
 	font-size: 15px;
 	padding-bottom: 30px;
-
+}
+.row .info ul {
+	list-style-type: none; 
 }
 .comment {
 	font-size: 14px;
@@ -89,7 +91,7 @@
 .form .form-comment-input {
 }
 .table-title{
-	margin: 30px 3px 0 0;
+	margin: 25px 3px 0 0;
 	text-align: center;
 	font-weight: bold;
 	line-height: 100%;
@@ -99,9 +101,11 @@
 	padding-left: 5px;
 }
 .table .table-label {
-	width: 24%;
+	width: 23%;
 	font-size: 14px;
 }
 #textarea {
 	font-family: Georgia, 'Times New Roman', Times, serif;
+	width: 380px;
+	height: 80px;
 }
