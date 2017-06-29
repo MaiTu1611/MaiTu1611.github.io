@@ -2,43 +2,129 @@
 	background: #2D2F35;
 	display: block;
 	font-family: Verdana, Arial, Helvetica, san-serif;
-	width: 1200px;
-	height: 1000px;
+	width: 1300px;
+	height: auto;
 }
 .logo {
-	height: auto;
-	width: auto;
+	height: 100px;
+	width: 1300px;
+	margin-top: 0;
 }
 .unit1 {
 	background: url(image/bg_home_intro.gif);
 	width: 100%;
 	height: 300px;
-	border-top: 0.5px solid white;
-	border-bottom: : 1px solid white;
+	border-top: 0.5px solid #464646;
+	border-bottom: : 1px solid #464646;
 }
 .unit1 .img {
 	float: right;
-	padding-right: 100px; 
+	padding-right: 200px; 
 
 }
 .unit1 .content {
 	background: url(image/bg_home_intro.gif) repeat-x; 
-	font-size: 11px;
+	font-size: 12px;
 	float: left;
-	width: 290px;
+	width: 360px;
 	height: auto;
 	margin: 0;
-	padding-top: 0;
-	padding-left: 125px;
+	padding-top: 0px;
+	padding-left: 120px;
 }
-.unit1 .content .title1 {
-	font-size: 19px;
+.title1 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	word-spacing: 8px;
+	letter-spacing: 1px;
+	font-size: 24px;
 	color: yellow;
 	padding: 0;
 	margin: 1px 0 0 0;
 }
 .unit1 .content .title2 {
-	font-size: 9.4px;
-	padding-top: 10px;
+	font-size: 11.5px;
+	padding-top: 12px;
 	color: white;
+}
+.unit2 {
+	height: 120px;
+	border-top: 1px solid #464646;
+	border-bottom: 1px solid #464646;
+	padding-left: 160px;
+	padding-top: 40px;
+}
+.unit2 .menu-image {
+	float: left;
+	width: 220px;
+	height: 100px;
+	position: relative;
+	margin-right: 20px;
+}
+.unit2 .menu-image .img {
+	position: absolute;
+	right: 4px;
+	top: 5px;
+}
+.unit3 {
+	height: 410px;
+	background: #2D2F35;
+	border-bottom: 1px solid #464646;
+	padding-top: 10px;
+}
+.unit3 .unit3-left {
+	float: left;
+	width:390px;
+	background: #2D2F35 url(image/home_services_bg_design.gif) no-repeat bottom right;
+	margin-left: 120px;
+	text-align: justify;
+}
+.unit3 .unit3-left .title1 {
+	font-size: 21px;
+	margin-bottom: 1px;
+	padding-bottom: 2px;
+}
+.unit3 .unit3-left .p4 {
+	height: 300px;
+	font-size: 11.5px;
+	padding-bottom: 40px;
+	color: white;
+	margin-top:0;
+	margin-bottom: 0;
+}
+.unit3 .unit3-right {
+	float: right;
+	width: 390px;
+	background: #2D2F35 url(image/home_services_bg_marketing.gif) no-repeat;
+	margin-right: 180px;
+	text-align: justify;
+}
+.unit3 .unit3-right .title1 {
+	margin:0;
+	font-size: 21px;
+}
+.unit3 .unit3-right .p5 {
+	height: 250px;
+	font-size: 11.5px;
+	padding-top: 40px;
+	color: white;
+	margin-top:0;
+}
+.unit4 {
+	background: #24262a;
+	margin-top:-15px;
+	padding-top:0;
+	width: 100%;
+	height: 100px;
+}
+.unit4 .unit4-title{
+	font-size: 11.5px;
+	text-align: center;
+	color: white;
+	margin:0;
+	padding:0;
+}
+.unit4 .img_footer{
+	padding-top: 5px;
+	width:900px;
+	padding-left: 170px;
 }
