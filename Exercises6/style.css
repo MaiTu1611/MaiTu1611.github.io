@@ -4,7 +4,6 @@ body {
 /* class public*/
 .main {
 	font-family: Arial;
-	display: block;
 	margin:20px 0 0 0;
 	padding:0;
 }
@@ -104,7 +103,7 @@ body {
 .class1 .left .content2 .ct2-left .show{
     width: 8px;
     height: 5px;
-	background: url(image/top-movie-trailers-arrows.gif) 0 0 ;
+	background: url(image/top-movie-trailers-arrows.gif) 0 0px no-repeat;
 	margin-top: 10px;
 	padding-left: 8px;
 	padding-top: 0px;
@@ -113,7 +112,7 @@ body {
     width: 20px;
     height: 15px;
     float: right;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 /* ct2 left private p1*/
 .class1 .left .content2 .ct2-left .p1-background{
