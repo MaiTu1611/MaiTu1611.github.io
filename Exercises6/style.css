@@ -1,0 +1,356 @@
+body {
+		background: #292728;
+}
+/* class public*/
+.main {
+	font-family: Arial;
+	display: block;
+	margin:20px 0 0 0;
+	padding:0;
+}
+.title {
+	font-size: 16px;
+	color: white;
+	height: 20px;
+	margin-bottom: 10px;
+	padding-top: 3px;
+    padding-left: 8px;
+    border-bottom: 1px dashed white;
+
+}.ct1-content1 {
+	margin:8px 10px 0px 10px;
+	font-weight: bold;
+	font-size: 11px;
+}
+.ct1-content2 {
+	margin:0px 10px 10px 10px;
+	font-size: 10px;
+}
+.more {
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+}
+/* class private */
+/*class1*/
+.class1 {
+	width: 930px;
+	height: 750px;
+	border-bottom: 1px dotted white;
+}
+/*class1 left*/
+/*class1 left content 1*/
+.class1 .left {
+	float: left;
+	height: 700px;
+}
+.class1 .left .content1{
+	background: white;
+	width: 652px;
+	height: 285px;
+		overflow: hidden;
+}
+.class1 .left .content1 .ct1-left{
+	float: left;
+	width: 325px;
+	border-right: 1px dotted black;
+}
+.class1 .left .content1 .ct1-left .title{
+	background: url(image/a.gif) repeat-x;
+	margin-top: 0;
+}
+#img1{
+	margin:10px 10px 0px 10px;
+}
+#img2 {
+	background: url(image/showbuzz.gif) no-repeat;
+	padding-left: 235px;
+	margin-left: 10px;
+}
+.class1 .left .content1 .ct1-right{
+	float: right;
+	width: 326px;
+}
+.class1 .left .content1 .ct1-right .title{
+	background: url(image/a.gif) repeat-x;
+	margin-top: 0;
+}
+#img3{
+	margin:10px 10px 0px 10px;
+}
+#img4 {
+	background: url(image/shooting-star.gif) no-repeat;
+	padding-left: 235px;
+	margin-left: 10px;
+}
+/*class1 left content 2*/
+.class1 .left .content2{
+	width: 651px;
+	height: 600px;
+	margin-top: 10px;
+}
+/* ct2 left public*/
+.class1 .left .content2 .ct2-left{
+	float: left;
+	width: 315px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+	background: white;
+}
+.class1 .left .content2 .ct2-left .title{
+	background: url(image/b.gif) repeat-x;
+	margin:0;
+}
+.class1 .left .content2 .ct2-left .show{
+    width: 8px;
+    height: 5px;
+	background: url(image/top-movie-trailers-arrows.gif) 0 0 ;
+	margin-top: 10px;
+	padding-left: 8px;
+	padding-top: 0px;
+}
+.class1 .left .content2 .ct2-left .p1-show{
+    width: 20px;
+    height: 15px;
+    float: right;
+    padding-top: 10px;
+}
+/* ct2 left private p1*/
+.class1 .left .content2 .ct2-left .p1-background{
+	background: #c9c9ce;
+	height: 22px;
+}
+.class1 .left .content2 .ct2-left .p1-title{
+	float: left;
+	width: 290px;
+	height: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	color: blue; 
+	padding-top: 3px;
+	padding-left: 5px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.class1 .left .content2 .ct2-left .p1-content{
+	margin: 10px;
+}
+.class1 .left .content2 .ct2-left .p1-content .p1-img{
+	float: left;
+	margin-right: 10px;
+}
+.class1 .left .content2 .ct2-left .p1-content .p1-p{
+	font-size: 12px;
+}
+.class1 .left .content2 .ct2-left .p1-content .p1-p p{
+	margin-top: 0;
+	margin-bottom: 2px;
+}
+.class1 .left .content2 .ct2-left .p1-content .p1-p .p1-link{
+	width: 20px;
+	height: 15px;
+	background: url(image/entertainment-icons.gif) 0px -91px no-repeat;
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+	padding-left: 20px;
+
+}
+.class1 .left .content2 .ct2-left .p4 img{
+	float: left;
+	padding-left: 8px;
+}
+.class1 .left .content2 .ct2-left .p4 .show1{
+	float: left;
+	width: 270px;
+	padding-left: 10px;
+	padding-top: 3px;
+	font-size: 11px;
+	font-weight: bold;
+
+}
+.class1 .left .content2 .ct2-left .p4 .show1 select{
+	margin-left: 10px;
+	height: 22px;
+    width: 180px;
+}
+/* ct2 right public*/
+.class1 .left .content2 .ct2-right{
+	float: left;
+	width: 315px;
+	background: white;
+	margin-left: 10px;	
+	margin-right: 0;
+	margin-top: 0;													
+}
+.class1 .left .content2 .ct2-right .title{
+	background: url(image/b.gif) repeat-x;
+	margin:0;
+}
+.class1 .left .content2 .ct2-right .p1 .show{
+	float: left;
+    width: 60px;
+    height: 15px;
+	background: url(image/topic-star-ratings.gif) 0px -65px no-repeat;
+	margin-top: 5px;
+	margin-left: 40px;
+	border: none;
+	padding-bottom: 2px;
+}
+.class1 .left .content2 .ct2-right .p2 .show{
+	float: left;
+    width: 60px;
+    height: 15px;
+	background: url(image/topic-star-ratings.gif) 0px -53px no-repeat;
+	margin-top: 5px;
+	margin-left: 40px;
+	border: none;
+}
+/* ct2 right private p1*/
+.class1 .left .content2 .ct2-left{
+	float: left;
+	width: 315px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+	background: white;
+}
+.class1 .left .content2 .ct2-left .title{
+	background: url(image/b.gif) repeat-x;
+	margin:0;
+}
+.class1 .left .content2 .ct2-left .show{
+    width: 8px;
+    height: 5px;
+	background: url(image/top-movie-trailers-arrows.gif) 0 0 ;
+	margin-top: 10px;
+}
+/* ct2 left private p1*/
+.class1 .left .content2 .ct2-right .p1 {
+	border-bottom: 1px dotted black;
+	height: 130px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.class1 .left .content2 .ct2-right .p3 {
+	height: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+.class1 .left .content2 .ct2-right .p1-background{
+	height: 22px;
+}
+.class1 .left .content2 .ct2-right .p1-title{
+	float: left;
+	width: 190px;
+	height: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	color: blue; 
+	padding-top: 3px;
+	padding-left: 5px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.class1 .left .content2 .ct2-right .p1-content{
+}
+.class1 .left .content2 .ct2-right .p1-content .p1-img{
+	float: left;
+	margin-right: 10px;
+}
+.class1 .left .content2 .ct2-right .p1-content .p1-p{
+	font-size: 12px;
+}
+.class1 .left .content2 .ct2-right .p1-content .p1-p p{
+	margin-top: 0;
+	margin-bottom: 2px;
+}
+.class1 .left .content2 .ct2-right .p1-link{
+	width: 90px;
+	height: 15px;
+	background: url(image/entertainment-icons.gif) 0px -91px no-repeat;
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+	padding-left: 20px;
+}
+.class1 .left .content2 .ct2-right .p3-show{
+	float: left;
+	width: 150px;
+	height: 15px;
+	background: url(image/entertainment-icons.gif) 0px -174px no-repeat;
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+	padding-left: 20px;
+}
+.class1 .left .content2 .ct2-right .p3-link{
+	float: right;
+	font-size: 13px;
+	text-decoration: none;
+}
+/* class1 right */
+.class1 .right {
+	float: left;
+	margin-left: 35px;
+}
+.class1 .right input {
+	padding-left: 0px;
+    margin-left: 12px;
+    width: 145px;
+    height: 15px;
+}
+.class1 .right button {
+	width: 64px;
+	color: #ffffff;
+    background-color: #92039a;
+    border: none;
+}
+/* class 2 */
+.class2 
+{
+	margin-top: 10px;
+	clear: both;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.class2 .class2-img {
+	margin-right: 80px;
+}
+/* footer */
+.footer {
+	width: 930px;
+	height: 50px;
+	font-size: 10px;
+	color: blue;
+	background: white;
+}
+.footer a{
+	color: blue;
+	text-decoration:none;
+}
+.footer a:hover {
+	color: red;
+}
+.footer a:visted {
+	color: green;
+}
+.footer a:active {
+	color: yellow;
+}
+.footer .footer-content .footer-left {
+	width: 820px;
+	float: left;
+	text-align: center;
+}
+.footer .footer-content .footer-right {
+	width: 100px;
+	float: right;
+	text-align: center;
+}
+.footer .copy {
+	text-align: center;
+}
