@@ -19,7 +19,7 @@
 	padding-bottom:30px; 
 }
 .profile .profile-title {
-	background: url(image_css/title_bg.gif) repeat-x bottom;
+	background: url(../image_css/title_bg.gif) repeat-x bottom;
 }
 .profile .profile-avatar {
 	width: 100px;
@@ -45,7 +45,7 @@
 	padding-left: 5px;
 }
 .comment-user {
-	background: url(image_css/comment_bt.gif) no-repeat ;
+	background: url(../image_css/comment_bt.gif) no-repeat ;
 	padding-left: 60px;
 	font-size: 13px;
 }
