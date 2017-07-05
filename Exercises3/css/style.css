@@ -12,14 +12,14 @@ body {
 	text-decoration: none;
 }
 .moreinfo::before {
-	content: url(image/arr_1.gif);
+	content: url(../image/arr_1.gif);
 	padding-right: 8px;
 }
 .item {
 	color: #595959;
 }
 .item::before {
-	content: url(image/arr.gif);
+	content: url(../image/arr.gif);
 	padding-right: 8px;
 }
 .hr {
