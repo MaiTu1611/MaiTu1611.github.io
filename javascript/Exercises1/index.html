@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Slider</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+</head>
+<body>
+	<div class="main">
+	<img id="logo" src="image/logo.png">
+		<div id="window">
+			<div class="slide">
+				<img class="image" src="image/0.jpg" alt="image0">
+			</div>
+			<div class="slide">
+				<img class="image" src="image/1.jpg" alt="image1">
+			</div>
+			<div class="slide">
+				<img class="image" src="image/2.jpg" alt="image2">
+			</div>
+			<div class="slide">
+				<img class="image" src="image/3.jpg" alt="image3">
+			</div>
+			<div>
+				<button class="button" id="pre" onclick="BtnClick(-1)">&lt</button>
+				<button class="button" id="next" onclick="BtnClick(1)">&gt</button>
+			</div>
+		</div>
+		<div id="window_mini">
+			<div>
+				<img class="slide_mini" src="image/0.jpg" alt="image0" onclick="ClickImageMini(0)" onmouseover="mOver(0)" onmouseout="mOut()">
+			</div>
+			<div>
+				<img class="slide_mini" src="image/1.jpg" alt="image1" onclick="ClickImageMini(1)" onmouseover="mOver(1)" onmouseout="mOut()">
+			</div>
+			<div>
+				<img class="slide_mini" src="image/2.jpg" alt="image2" onclick="ClickImageMini(2)" onmouseover="mOver(2)" onmouseout="mOut()">
+			</div>
+			<div>
+				<img class="slide_mini" src="image/3.jpg" alt="image3" onclick="ClickImageMini(3)" onmouseover="mOver(3)" onmouseout="mOut()">
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="javascript/java.js"></script>
+</body>
+</html>
