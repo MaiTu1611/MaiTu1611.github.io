@@ -6,14 +6,16 @@
 </head>
 <body>
 	<div id="display_begin">
-		<input type="text" name="inputDate" value="" onclick="calendar()">
+		<input type="text" name="inputDate" value="MM/DD/YYYY" onclick="calendar()" onchange="IsUserInput(this)">
+		<p id="notification"></p>
 	</div>
 	<div id="calendar">
 		<table id="day">
 			<tr>
-				<th><button class="btn" id="previous" onclick="BtnClick(-1)">&lt;</button></th>
-      			<th colspan="3">
-      				<select id="month">
+				<th class="btn"><button id="previous" onclick="BtnClickYear(-1)">&lt;&lt;</button></th>
+				<th class="btn"><button id="previous" onclick="BtnClickMonth(-1)">&lt;</button></th>
+      			<th colspan="2">
+      				<select id="month" onchange="ChangeMonth()">
   						<option value="1">January</option>
   						<option value="2">February</option>
  						<option value="3">March</option>
@@ -28,17 +30,14 @@
   						<option value="12">December</option>
 					</select>
 				</th>
-     			<th colspan="2">
-     				<select id="year">
-  						<option value="2017">2017</option>
-  						<option value="2016">2016</option>
- 						<option value="2015">2015</option>
-  						<option value="2014">2014</option>
+     			<th colspan="1">
+     				<select id="year" onchange="ChangeYear()">
 					</select>
      			</th>
-      			<th><button class="btn" id="next" onclick="BtnClick(1)">&gt;</button></th>
+      			<th class="btn"><button id="next" onclick="BtnClickMonth(1)">&gt;</button></th>
+      			<th class="btn"><button id="next" onclick="BtnClickYear(1)">&gt;&gt;</button></th>
       		</tr>
-			<tr>
+			<tr id="title">
 				<th>Su</th>
       			<th>Mo</th>
      			<th>Tu</th>
