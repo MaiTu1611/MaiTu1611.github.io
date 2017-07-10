@@ -1,4 +1,3 @@
-var CHECK_TITLE = true;
 var CHECK_CREATE_YEAR = true;
 var CHECK_TO_DAY = true;
 var CURRENT_DAY = 0;
@@ -34,8 +33,9 @@ function calendar() {
 	selectMonth.value = CURRENT_MONTH;
 	selectYear.value = CURRENT_YEAR;
 	//create 2 new Date to get first day and last day of month
-	var first = new Date(CURRENT_YEAR, CURRENT_MONTH, 1);
-	var last = new Date(CURRENT_YEAR, CURRENT_MONTH + 1, 0);
+	var first = new Date(CURRENT_YEAR, CURRENT_MONTH-1, 1);
+	console.log(first.toDateString());
+	var last = new Date(CURRENT_YEAR, CURRENT_MONTH, 0);
 	// assign value to table
 	var temp = 1;
 	for (var j = 0; j < 42; j++) {
@@ -88,7 +88,7 @@ function CreateSelecteYear() {
 
 // When choose month at the select
 function ChangeMonth() {
-	CURRENT_MONTH = selectMonth.value ;// CURRENT_MONTH from 0 to 11 , selectMonth from 1 to 12 , CURRENT_MONTH
+	CURRENT_MONTH = selectMonth.value;// CURRENT_MONTH from 0 to 11 , selectMonth from 1 to 12 , CURRENT_MONTH
 	calendar();
 }
 
