@@ -3,17 +3,23 @@
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 }
-body {
-	width: 300px;
+form {
+	width: 600px;
 	margin: 20px; auto;
 	position: relative;
 }
 input {
+	width: 200px;
+	height: 25px;
 	color: black;
+	border: 1px solid #ff9800;
+	border-radius: 5px;
 }
-p {
-	float: right;
-	margin: 0;
+label, legend {
+	width: 100px;
+	font-weight: bold;
+	font-size: 15px;
+	color: #ff9800;
 }
 table {
 	width: 230px;
@@ -44,7 +50,7 @@ button {
     background: white;
 }
 button:hover {
-	background: #03a9f4;
+	color: #ff9800;
 }
 button:active {
 	border: none;
@@ -60,8 +66,39 @@ td {
 td:hover {
 	border: 1px solid #03a9f4;
 }
-#display_begin {
-	width: 400px;
+#userName {
+	margin: 10px;
+	height: 30px;
+}
+#userName input{
+	margin-left: 20px;
+}
+#passWord {
+	margin: 10px;
+	height: 30px;
+}
+#passWord input{
+	margin-left: 23px;
+}
+#Email {
+	margin: 10px;
+	height: 30px;
+}
+#Email input{
+	margin-left: 46px;
+}
+#Brithday {
+	margin: 10px;
+}
+#Brithday input{
+	margin-left: 27px;
+}
+#submit ,#reset{
+	width: 100px;
+	float: none;
+	background: #ff9800;
+	color: #fff;
+	border: none;
 }
 #calendar {
 	display: block;
@@ -75,7 +112,6 @@ td:hover {
 	display: none;
 }
 .btn {
-	background: #00dad7;
 }
 #title {
 	color: #3b7309;
