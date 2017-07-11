@@ -4,7 +4,7 @@
 	-webkit-box-sizing: border-box;
 }
 body {
-	width: 500px;
+	width: 300px;
 	margin: 20px; auto;
 	position: relative;
 }
@@ -15,12 +15,9 @@ p {
 	float: right;
 	margin: 0;
 }
-table, th, td {
-	border: 1px solid white;
-}
 table {
-	width: 400px;
-	background: #716f6f;
+	width: 230px;
+	border: 1px solid #4caf50;
 }
 th {
 	height: 20px;
@@ -28,8 +25,8 @@ th {
 	padding: 0;
 }
 select {
-	width: 100%;
-    height: 100%;
+	width: 90%;
+    height: 90%;
     border: none;
 }
 option {
@@ -38,13 +35,13 @@ option {
 	overflow: scroll;
 }
 button {
-	width: 100%;
-	height: 100%;
+	width: 20px;
+	height: 20px;
 	font-size: 14px;
 	font-weight: bold;
     border: none;
     padding: 0;
-    background: #00dad7;
+    background: white;
 }
 button:hover {
 	background: #03a9f4;
@@ -53,8 +50,12 @@ button:active {
 	border: none;
 }
 td {
-	height: 20px;
+	height: 30px;
+	width: 30px;
+	background: #8ad845;
 	text-align: center;
+	border: 1px solid #4caf50;
+	border-radius: 5px;
 }
 td:hover {
 	border: 1px solid #03a9f4;
@@ -66,6 +67,10 @@ td:hover {
 	display: block;
 	margin-top: 20px;
 }
+#header th {
+	border: 1px solid #4caf50;
+	border-radius: 5px;
+}
 #day {
 	display: none;
 }
@@ -73,6 +78,5 @@ td:hover {
 	background: #00dad7;
 }
 #title {
-	background: #c7c7c7;
-	color: red;
+	color: #3b7309;
 }
