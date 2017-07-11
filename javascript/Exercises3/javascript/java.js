@@ -233,7 +233,7 @@ function restartCalendar() {
  * if false, notificaion will change
  */
 function notificationInDisplay(isDay) {
-	notification.innerHTML = "Checked";
+	notification.innerHTML = "Checked (MM/DD/YYYY)";
 	notification.style.color = "green";
 	if (!isDay) {
 		notification.innerHTML = "Fail, please check again!!!";
