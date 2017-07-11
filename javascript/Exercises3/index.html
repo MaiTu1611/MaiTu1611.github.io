@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercises2</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+  <script type="text/javascript" src="javascript/ajax.js"></script>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Form Login</legend>
+                <div id="userName">
+                  <label>Username</label>
+                  <input type="text" name="username">
+                  <span><strong id="erroruser"></strong></span>
+                </div>
+                <div id="passWord">
+                  <label>Password</label>
+                  <input type="password" name="username">
+                  <span><strong id="errorpassword"></strong></span>
+                </div>
+                <div id="Email">
+                  <label>Email</label>
+                  <input type="email" name="username">
+                  <span><strong id="errorpassword"></strong></span>
+                </div>
+                <div id="Brithday">
+              	<div id="display_begin">
+                  <label>Brithday</label>
+              	  <input type="text" name="inputDate" value="MM/DD/YYYY" onclick="calendar()" onchange="isUserInput(this)">
+              		<span><strong id="notification"></strong></span>
+              	</div>
+              	<div id="calendar">
+              		<table id="day">
+              			<tr id="header">
+              				<th class="btn"><button class="previous" onclick="buttonClickYear(-1)">&lt;&lt;</button></th>
+              				<th class="btn"><button class="previous" onclick="buttonClickMonth(-1)">&lt;</button></th>
+                    			<th colspan="1">
+                    				<select id="month" onchange="changeMonth()">
+                						<option value="1">01</option>
+                						<option value="2">02</option>
+               						<option value="3">03</option>
+                						<option value="4">04</option>
+                						<option value="5">05</option>
+                						<option value="6">06</option>
+                						<option value="7">07</option>
+                						<option value="8">08</option>
+                						<option value="9">09</option>
+                						<option value="10">10</option>
+                						<option value="11">11</option>
+                						<option value="12">12</option>
+              					</select>
+              				</th>
+                   			<th colspan="2">
+                   				<select id="year" onchange="changeYear()">
+              					</select>
+                   			</th>
+                    			<th class="btn"><button class="next" onclick="buttonClickMonth(1)">&gt;</button></th>
+                    			<th class="btn"><button class="next" onclick="buttonClickYear(1)">&gt;&gt;</button></th>
+                    		</tr>
+              			<tr id="title">
+              				<th>Su</th>
+                    			<th>Mo</th>
+                   			<th>Tu</th>
+                    			<th>We</th>
+                    			<th>Th</th>
+                    			<th>Fr</th>
+                    			<th>Sa</th>
+                    		</tr>
+                  		<tr>
+                    			<td>1</td>
+                    			<td>2</td>
+                    			<td>3</td>
+                    			<td>4</td>
+                    			<td>5</td>
+                    			<td>6</td>
+                    			<td>7</td>
+                  		</tr>
+                  		<tr>
+                    			<td>1</td>
+                    			<td>2</td>
+                    			<td>3</td>
+                    			<td>4</td>
+                    			<td>5</td>
+                    			<td>6</td>
+                    			<td>7</td>
+                  		</tr>
+                  		<tr>
+                    			<td>1</td>
+                    			<td>2</td>
+                    			<td>3</td>
+                    			<td>4</td>
+                    			<td>5</td>
+                    			<td>6</td>
+                    			<td>7</td>
+                  		</tr>
+                  		<tr>
+                    			<td>1</td>
+                    			<td>2</td>
+                    			<td>3</td>
+                    			<td>4</td>
+                    			<td>5</td>
+                    			<td>6</td>
+                    			<td>7</td>
+                  		</tr>
+                  		<tr>
+                    			<td>1</td>
+                    			<td>2</td>
+                    			<td>3</td>
+                    			<td>4</td>
+                    			<td>5</td>
+                    			<td>6</td>
+                    			<td>7</td>
+                  		</tr>
+                  		<tr>
+                    			<td>1</td>
+                    			<td>2</td>
+                    			<td>3</td>
+                    			<td>4</td>
+                    			<td>5</td>
+                    			<td>6</td>
+                    			<td>7</td>
+                  		</tr>
+              		</table>
+              		<div id="text"></div>
+              	</div>
+                </div>
+                <div>
+                  <input id="submit" type="submit" name="submit" value="Submit" onclick="clickSubmit()">
+                  <input id="reset" type="reset" value="Refresh">
+                  <span><strong id="errorsubmit"></strong></span>
+                </div>
+      </fieldset>
+  </form>
+	<script type="text/javascript" src="javascript/java.js"></script>
+</body>
+</html>
