@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exercises2</title>
+	<title>Exercises3</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
   <script type="text/javascript" src="javascript/ajax.js"></script>
 </head>
@@ -11,23 +11,23 @@
             <legend>Form Login</legend>
                 <div id="userName">
                   <label>Username</label>
-                  <input type="text" name="username">
+                  <input type="text" name="username" onkeyup="isInputUserName(this.value)">
                   <span><strong id="erroruser"></strong></span>
                 </div>
                 <div id="passWord">
                   <label>Password</label>
-                  <input type="password" name="username">
+                  <input type="password" name="password" onkeyup="isInputPassword(this.value)">
                   <span><strong id="errorpassword"></strong></span>
                 </div>
                 <div id="Email">
                   <label>Email</label>
-                  <input type="email" name="username">
-                  <span><strong id="errorpassword"></strong></span>
+                  <input type="email" name="email" onkeyup="isInputEmail(this.value)" onchange="isInputEmail(this.value)">
+                  <span><strong id="erroremail"></strong></span>
                 </div>
                 <div id="Brithday">
               	<div id="display_begin">
                   <label>Brithday</label>
-              	  <input type="text" name="inputDate" value="MM/DD/YYYY" onclick="calendar()" onchange="isUserInput(this)">
+              	  <input type="text" name="inputDate" value="MM/DD/YYYY" onclick="calendar()" onkeyup="isUserInput(this.value)" onchange="isUserInput(this.value)">
               		<span><strong id="notification"></strong></span>
               	</div>
               	<div id="calendar">
@@ -39,7 +39,7 @@
                     				<select id="month" onchange="changeMonth()">
                 						<option value="1">01</option>
                 						<option value="2">02</option>
-               						<option value="3">03</option>
+               						  <option value="3">03</option>
                 						<option value="4">04</option>
                 						<option value="5">05</option>
                 						<option value="6">06</option>
@@ -126,7 +126,7 @@
               	</div>
                 </div>
                 <div>
-                  <input id="submit" type="submit" name="submit" value="Submit" onclick="clickSubmit()">
+                  <input id="submit" type="button" name="submit" value="Submit" onclick="clickSubmit()">
                   <input id="reset" type="reset" value="Refresh">
                   <span><strong id="errorsubmit"></strong></span>
                 </div>
