@@ -4,9 +4,14 @@
 	-webkit-box-sizing: border-box;
 }
 form {
-	width: 600px;
+	width: 700px;
 	margin: 20px; auto;
 	position: relative;
+}
+fieldset {
+    border-color: #ff9800;
+    border-radius: 5px;
+    border-style: solid;
 }
 input {
 	width: 200px;
@@ -16,7 +21,6 @@ input {
 	border-radius: 5px;
 }
 label, legend {
-	width: 100px;
 	font-weight: bold;
 	font-size: 15px;
 	color: #ff9800;

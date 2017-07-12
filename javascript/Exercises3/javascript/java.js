@@ -21,16 +21,15 @@ var selectMonth = document.getElementById("month");
 var selectYear = document.getElementById("year");
 var input = document.getElementsByName("inputDate")[0];
 var notification = document.getElementById("notification");
-
 /**
  * Function for create new calendar
  */
 function calendar() {	
 	//show table and create year select
 	tableDay.style.display = "block";
-	input.value = "";
 	if (CHECK_CREATE_BEGIN) {
 	    createSelecteYear();
+	    input.value = "";
 	    CHECK_CREATE_BEGIN = false;
 	}
 	// assign value to select tag
@@ -58,7 +57,6 @@ function calendar() {
 		}
 	}
 }
-
 /**
  * Function of event click button next or previous month
  * @param {number} n
@@ -76,7 +74,6 @@ function buttonClickMonth(n) {
 	}
 	calendar();
 }
-
 /**
  * Function of event click button next or previous year
  * @param {number} n
@@ -86,7 +83,6 @@ function buttonClickYear(n) {
 	CURRENT_YEAR += n;
 	calendar();
 }
-
 /**
  * Funtion create select year
  * Will call from function calendar when start first
@@ -99,7 +95,6 @@ function createSelecteYear() {
 		selectYear.appendChild(option);
 	}
 }
-
 /**
  * When choose month at the select
  */
@@ -107,7 +102,6 @@ function changeMonth() {
 	CURRENT_MONTH = selectMonth.value;
 	calendar();
 }
-
 /**
  * When choose year at the select
  */
@@ -115,7 +109,6 @@ function changeYear() {
 	CURRENT_YEAR = selectYear.value;
 	calendar();
 }
-
 /**
  * function for event choose day
  * @param {String} day
@@ -124,13 +117,12 @@ function changeYear() {
 function chooseDay(day) {
 	var monthCheck = checkMonth(CURRENT_MONTH);
 	var dayCheck = checkDay(day.innerHTML);
-	console.log(dayCheck);
 	var stringDay =  monthCheck + "-" + dayCheck + "-" + CURRENT_YEAR;
 	input.value = stringDay;
 	notificationInDisplay(isFormatAndLimit(stringDay));
 	restartCalendar();
+	CHECK_DATE = true;
 }
-
 /**
  * function for check month < 10
  * @param {number} month
@@ -143,7 +135,6 @@ function checkMonth(month) {
 	}
 	return month;
 }
-
 /**
  * function for check day < 10
  * @param {number} month
@@ -155,88 +146,9 @@ function checkDay(day) {
 	}
 	return day;
 }
-
-/**
- * Function for event user input
- * @param {number} day
- * Call to restartCalendar() when finish
- */
-function isUserInput(day) {
-	notificationInDisplay(isFormatAndLimit(day.value));
-	restartCalendar();
-}
-
-/**
- * Function check day max in month
- * @param {number} month
- * @param {number} year
- * @return {number} day max
- */
-function dayOfMonth(month,year) {
-	switch (month) {
-		case 1, 3, 5, 7, 8, 10, 12:
-			return 31;
-		case 4, 6, 9, 11:
-			return 30;
-		case 2: {
-			if (testLeapYear(year)) {
-				return 29;
-			}
-			return 28;
-		}
-	}
-}
-
-/**
- * Function test leap year
- * @param {number} year
- * @return {boolean} true or false
- */
-function testLeapYear(year) {
-	if ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0)) {
-		return true;
-	}
-	return false;
-}
-
-/**
- * Function for check data format user input
- * @param {String} stringDay is format shortDate
- * @return {boolean} true if stringDay correct else return false
- */
-function isFormatAndLimit(stringDay) {
-	// Check day of user input with RegExp
-	var rule = /^(\d{1,2})([\.\-\/\\ ])(\d{1,2})([\.\-\/\\ ])(\d{4})$/;// MM/DD/YYYY
-	var checkRegex = new RegExp(rule);
-	// begin check data with format
-	if (!checkRegex.test(stringDay)) {
-		return false;
-	}
-	// begin check data input in limit
-	var dayTest = new Date(stringDay);
-	if (dayTest == "Invalid Date") {
-		return false;
-	}
-	return true;
-}
-
 /**
  * Function for restart all (hidden calendar)
  */
 function restartCalendar() {
 	tableDay.style.display = "none";
-}
-
-/**
- * Function for notification in display
- * @param {boolean} isDay
- * if false, notificaion will change
- */
-function notificationInDisplay(isDay) {
-	notification.innerHTML = "Checked (MM/DD/YYYY)";
-	notification.style.color = "green";
-	if (!isDay) {
-		notification.innerHTML = "Fail, please check again!!!";
-		notification.style.color = "red";
-	}
 }
