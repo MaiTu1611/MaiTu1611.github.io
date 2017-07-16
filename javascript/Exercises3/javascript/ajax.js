@@ -35,15 +35,13 @@ var colorChecked = "green";// notification's color exactly
  		}
  		xhttp.onreadystatechange = function () {
  			if (this.readyState == 4 && this.status == 200) {
- 				errorPassword.innerHTML = "Checked In Server";
- 				errorUserName.innerHTML = "Checked In Server";
+ 				errorUserName.innerHTML = this.responseText;
  			}
  			else {
- 				errorPassword.innerHTML = "NOT CHECKED";
  				errorUserName.innerHTML = "NOT CHECKED";
  			}
  		}
- 		xhttp.open("GET", "url?q=" + user.value + "&" + password.value, true);
+ 		xhttp.open("GET", "hello?q=" + user.value, true);
  		xhttp.send();
  	}
  }
