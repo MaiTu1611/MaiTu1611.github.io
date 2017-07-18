@@ -100,7 +100,9 @@ td:hover {
 }
 #calendar {
 	display: block;
-	margin-top: 0px;
+	margin-top: 20px;
+    margin-left: 90px;
+    margin-bottom: 20px;
 }
 #submit ,#reset{
 	width: 100px;
