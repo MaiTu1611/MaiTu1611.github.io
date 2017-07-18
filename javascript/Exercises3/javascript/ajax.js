@@ -33,7 +33,7 @@ var colorChecked = "green";// notification's color exactly
  		else {
  			xhttp = new ActiveXObject("Microsoft.XMLHTTP");
  		}
- 		xhttp.onreadystatechange = function () {
+ 		xhttp.onreadystatechange = function() {
  			if (this.readyState == 4 && this.status == 200) {
  				errorUserName.innerHTML = this.responseText;
  			}
