@@ -80,7 +80,8 @@ function buttonClickMonth(n) {
  * Will call to function calendar when click button
  */
 function buttonClickYear(n) {
-	CURRENT_YEAR += n;
+	CURRENT_YEAR = parseInt(CURRENT_YEAR) + n;
+	console.log(CURRENT_YEAR);
 	calendar();
 }
 /**
