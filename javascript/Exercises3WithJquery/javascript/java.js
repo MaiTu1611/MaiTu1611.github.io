@@ -19,7 +19,7 @@ var tableDay = $("#day");
 var selectMonth = $("#month");
 var selectYear = $("#year");
 var table = $("td");
-var input = $("#birthday");
+var input = $("#inputBirthday");
 var notification = $("#notification");
 
 /**
@@ -28,9 +28,9 @@ var notification = $("#notification");
 function calendar() {	
 	//show table and create year select
 	tableDay.show();
-	input.val("");
 	if (CHECK_CREATE_BEGIN) {
 	    createSelecteYear();
+	    input.val("");
 	    CHECK_CREATE_BEGIN = false;
 	}
 	// assign value to select tag
@@ -62,8 +62,11 @@ function calendar() {
  * Function of event click input date
  * Will call to function calendar when click button
  */
- input.click(function () {
+ input.click(function() {
  	calendar();
+ })
+ input.change(function() {
+ 	tableDay.hide();
  })
 /**
  * Function of event click button previous month
@@ -138,7 +141,7 @@ function chooseDay(day) {
 	var monthCheck = checkMonth(CURRENT_MONTH);
 	var dayCheck = checkDay(day.innerHTML);
 	console.log(dayCheck);
-	var stringDay =  monthCheck + "-" + dayCheck + "-" + CURRENT_YEAR;
+	var stringDay =  monthCheck + "/" + dayCheck + "/" + CURRENT_YEAR;
 	input.val(stringDay);
 	//notificationInDisplay(isFormatAndLimit(stringDay));
 	restartCalendar();
