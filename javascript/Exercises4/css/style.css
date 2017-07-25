@@ -1,7 +1,8 @@
 body {
 	width: 600px;
-	margin: 0 auto;
+	margin: 20px auto;
 }
 canvas {
 	border: 1px solid black;
+	cursor: pointer;
 }
