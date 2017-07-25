@@ -1,5 +1,6 @@
 body {
-	margin:auto;
+	width: 501px;
+	margin: 0 auto;
 	padding: auto;
 }
 .main {
@@ -72,4 +73,5 @@ ul {
 	width: 363px;
 	height: 100px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
+	resize: none;
 }
