@@ -1,9 +1,8 @@
 body {
 	width: 600px;
 	margin: 20px auto;
-	cursor: url("image/mouse.png"), pointer;
 }
 canvas {
 	border: 1px solid black;
-	/*cursor: url("image/mouse.png"), pointer;*/
+	cursor: pointer;
 }
