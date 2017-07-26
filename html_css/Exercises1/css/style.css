@@ -1,10 +1,7 @@
 body {
 	width: 501px;
 	margin: 0 auto;
-	padding: auto;
-}
-.main {
-	width: 500px;
+	padding: 0 auto;
 	border: solid 1px #0033FF;
 	font-size: 15px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
@@ -16,7 +13,7 @@ body {
 ul {
 	list-style-type: none;
 }
-.main .title {
+.title {
 	font-weight: bold;
 	padding-left: 3px;
 }
@@ -42,7 +39,6 @@ ul {
 }
 .facts {
 	margin-bottom: 40px;
-	font-size: 15px;
 }
 .comment {
 	margin-bottom: 20px;
@@ -51,11 +47,13 @@ ul {
 .comment-content {
 	background: #ECECEC;
 	padding-left: 5px;
+	margin-left: 3px;
 }
 .comment-user {
 	background: url(../image_css/comment_bt.gif) no-repeat ;
-	padding-left: 60px;
-	font-size: 13px;
+	padding-left: 40px;
+    font-size: 13px;
+    margin-left: 25px;
 }
 .comment-user a{color: blue;}
 .your-comment {
@@ -71,7 +69,14 @@ ul {
 }
 #textarea {
 	width: 363px;
-	height: 100px;
+	height: 90px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	resize: none;
+}
+.clear: after {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+    visibility: hidden;
 }

@@ -26,7 +26,6 @@ function mOver(n) {
 	//dim all mini image
 	for (var i = 0; i < image_mini.length; i++) {
 		image_mini[i].style.opacity = "0.5";
-		console.log("over");
 	}
 	image_mini[n].style.opacity = "1";
 }
@@ -34,7 +33,6 @@ function mOut() {
 	CHECK_MOUSE = true;
 	for (var i = 0; i < image_mini.length; i++) {
 		image_mini[i].style.opacity = "0.5";
-		console.log("out");
 	}
 	image_mini[IMAGE_CURRENT].style.opacity = "1";
 }
@@ -56,7 +54,6 @@ function ShowImage(n) {
 		if (CHECK_MOUSE) {
 		    image_mini[i].style.opacity = "0.5";
 		}
-		console.log("none");
 	}
 
 	// then show image current
