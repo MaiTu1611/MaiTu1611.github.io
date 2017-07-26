@@ -1,10 +1,11 @@
-var score = 300;// score of game
+var score = 100;// score of game
 var heart = 3;// Times played
-var speed = 2;// speed of game
+var arraySpeed = [2, 4, 10];// save array speed
+var speed = arraySpeed[0];// speed of game
 var monterSize = 60;// size monter
 var level = 1;// level of game
 var countMonter = 0;// count monter show in display
-var endGame = false;// check gameover
+var endGame = false;// check gameover to only click menu
 var isPause = false;// check pause
 /* get element canvas */
 var canvas = $("canvas")[0];
@@ -22,6 +23,8 @@ var refreshIcon = new Image();
 refreshIcon.src = "image/refreshIcon.png";
 var boomIcon = new Image();
 boomIcon.src = "image/boomIcon.png";
+var boom = new Image();
+boom.src = "image/boom.png";
 /*==============Image Monter=================*/
 // set image to monter1
 var monter1Image = new Image();
@@ -56,35 +59,32 @@ var cancelAnimationFrame = window.cancelAnimationFrame || window.mozCancelAnimat
  * function init before start game
  */
 function startGame() {
-	console.log(score + " " + heart);
-	if (score < 10 || heart < 0) {
+	if ((score < 10 || heart < 0)) {
 		if (score < 0) {
 			score = 0;
 		}
-		gameOver();
-		//cancelAnimationFrame(reqAnimation);
+		isPause = true;
 		endGame = true;
-	} else {
+		gameOver();
+	} 
+	if (isPause == false) {
 		endGame = false;
-		if (isPause == false) {
-   			drawHeader();
-    		drawGame();
-    	}
-    	reqAnimation(startGame);
-	}
+   		drawHeader();
+    	drawGame();
+    }
+    reqAnimation(startGame);
 }
 /**
  * Function draw header position
  */
 function drawHeader() {
-	//	clear();
     context.drawImage(backGround, 0, 0, 600, 600);
     context.drawImage(pauseIcon, 440, 20, 40, 40);
     context.drawImage(refreshIcon, 490, 20, 40, 40);
     context.drawImage(boomIcon, 540, 20, 40, 40);
     context.fillStyle = "#17b287";
 	context.font = "20px Arial bold";
-    context.fillText("SCORE: " + score, 20, 20);
+    context.fillText("SCORE: " + score, 20, 30);
     context.fillText("HEART: " + heart, 20, 50);
 }
 /**
@@ -106,35 +106,9 @@ function drawGame() {
  * Function show random monter
  */
  function randomMonter() {
- 	var number = Math.floor((Math.random()*8)+1);
- 	switch (number) {
- 		case 1:
- 			monter1.isShow = true;
- 			break;
- 		case 2:
- 			monter2.isShow = true;
- 			break;
- 		case 3:
- 			monter3.isShow = true;
- 			break;
- 		case 4:
- 			monter4.isShow = true;
- 			break;
- 		case 5:
- 			monter5.isShow = true;
- 			break;
- 		case 6:
- 			monter6.isShow = true;
- 			break;
- 		case 7:
- 			monter7.isShow = true;
- 			break;
- 		case 8:
- 			monter8.isShow = true;
- 			break;
- 		default:
- 			break;
- 	}
+ 	var number = Math.floor((Math.random()*8));
+ 	console.log(number);
+ 	monter[number].isShow = true;
  }
 /**
  * Class Monster
@@ -177,8 +151,6 @@ monter.prototype.move = function () {
 		this.moveToX = this.beginX;
 		this.moveToY = this.beginY;
 	}
-	console.log("speed in move method: " + speed);
-	//console.log("moveToX: " + this.moveToX + " moveToY: " + this.moveToY);
 	// move following X
 	if (this.x == this.moveToX) {
 			this.x = this.moveToX;
@@ -189,7 +161,6 @@ monter.prototype.move = function () {
 			this.x += speed;
 		}
 	}
-	//console.log("x : " + this.x + " moveToX: " + this.moveToX);
 	// move following Y
 	if (this.y == this.moveToY) {
 		this.y = this.moveToY;
@@ -200,7 +171,6 @@ monter.prototype.move = function () {
 			this.y += speed;
 		}
 	}
-	//console.log("y : " + this.y + " moveToY: " + this.moveToY);
 	// when monster return position begin and revise the original value
 	if (this.x == this.beginX && this.y == this.beginY) {
 		score -= 10 * level;
@@ -257,9 +227,9 @@ function clickMonter(mouseX, mouseY, monter) {
 		monter.moveToY = monter.finishY;
 		/* set again speed and level*/
 		var temp = Math.floor(score/100);
-		if (level < temp && temp < 3) {
+		if (level < temp && temp <= 3) {
 			level = temp;
-			speed += 2;
+			speed = arraySpeed[level-1];
 		}
 		/* Create new monter when monter current die*/
 		for (var i = 0; i < level; i++) {
@@ -293,12 +263,11 @@ function clickRestart(mouseX, mouseY) {
 			setDefaultMonter(monter[i]);
 		}
 		isPause = false;
+		speed = arraySpeed[0];
 		score = 100;
 		heart = 3;
 		level = 1;
-		monter1.isShow = true;
-		startGame();
-		//reqAnimation(startGame);
+		randomMonter();
 	}
 }
 /**
@@ -307,8 +276,6 @@ function clickRestart(mouseX, mouseY) {
  * @param {number} position mouse Y
  */
 function clickPause(mouseX, mouseY) {
-	console.log("passe");
-	console.log(score + " " + heart);
 	if (mouseX > 440 && mouseX <= 480 && mouseY > 20 && mouseY <= 60) {
 		isPause = !isPause;
 		if(isPause == false) {
@@ -320,16 +287,25 @@ function clickPause(mouseX, mouseY) {
  * Function handle event click boom
  * @param {number} position mouse X
  * @param {number} position mouse Y
+ * Function will delay 2s to draw boom
  */
 function clickBoom(mouseX, mouseY) {
 	if (mouseX > 540 && mouseX <= 580 && mouseY > 20 && mouseY <= 60) {
-
-		score = 100;
-		heart = 3;
-		speed = 2;
-		level = 1;
-		reqAnimation(startGame);
-		randomMonter();
+		for (var i = 0; i < 8; i++) {
+			setDefaultMonter(monter[i]);
+		}
+		score += countMonter*10*level;
+		var temp = Math.floor(score/100);
+		if (level < temp && temp <= 3) {
+			level = temp;
+			speed = arraySpeed[level-1];
+		}
+		clickPause(450, 30);
+		context.drawImage(boom, 60, 80, 500, 500);
+		setTimeout(function() {
+			randomMonter();
+			isPause = !isPause;
+		}, 1000);
 	}
 }
 /**
@@ -357,5 +333,4 @@ function setDefaultMonter(monterSetDefault) {
 	monterSetDefault.moveToX = monterSetDefault.finishX;
 	monterSetDefault.moveToY = monterSetDefault.finishY;
 	monterSetDefault.isShow = false;
-	speed = 2;
 }
