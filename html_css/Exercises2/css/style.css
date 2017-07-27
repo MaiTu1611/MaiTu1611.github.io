@@ -11,7 +11,7 @@ body {
 	background: url(../image/bg_home_intro.gif);
 	height: 310px;
 	border-top: 1px solid #464646;
-	overflow: auto;
+	overflow: hidden;
 }
 .header .img {
 	float: right;
@@ -61,11 +61,11 @@ body {
 	top: 5px;
 }
 .main {
-	height: 420px;
+	min-height: 400px;
 	background: #2D2F35;
 	border-top: 1px solid #464646;
 	padding-top: 10px;
-	overflow: auto;
+	overflow: hidden;
 }
 .main .main-left {
 	float: left;
