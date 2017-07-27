@@ -36,7 +36,6 @@ ul {
 .img1 {
 	float: left;
 	width: 170px;
-	height: 80px;
 	padding-top: 5px;
 	padding-left: 5px;
 }
@@ -51,10 +50,9 @@ ul {
 	width: 290px;
 }
 .content1 {
-	float: left;
-	height: 90px;
 	width: 290px;
 	background-color: white;
+	overflow: auto;
 }
 .right {
 	width: 100px;
@@ -76,7 +74,7 @@ ul {
 }
 .class1 .content .content2 {
 	background:  #faf0bf;
-	margin-top: 90px;
+	margin-top: 0;
 }
 .class1 .content .content2 .p3{
 	padding-top: 5px;
@@ -87,7 +85,7 @@ ul {
 }
 /* css class2 */
 .class2 {
-	padding-top: 0;
+	padding-top: 5px;
 }
 .class2 .title {
 	padding-top: 0;
@@ -98,7 +96,7 @@ ul {
 	width: 100px; 
 }
 .class2 .content .content1 {
-	height: 140px;
+	height: 170px;
 }
 .class2 .content .content1 .right{
 	width: 180px;
@@ -108,17 +106,21 @@ ul {
 	text-decoration: underline;
 }
 .class2 .content .content1 .right .p1{
+	margin-top: 20px;
 	font-weight: bold;
+	font-size: 12px;
 }
 .class2 .content .content1 .right .p2{
 	color: #808080;
 }
 .class2 .content .content1 .right .p3{
 	margin-top: 10px;
+	line-height: 1.4;
 }
 .class2 .content .content2 {
 	background-color: #f4f4ec;
-	height: 180px;
+	height: 40px;
+	overflow: auto;
 }
 .class2 .content .content2 .right{
 	margin-left: 15px;
@@ -135,14 +137,12 @@ ul {
 }
 /* css class3 */
 .class3 {
-	margin-top: 20px;
-}
-.class3 .content {
-	float: left;
+	margin-top: 15px;
 }
 .class3 .content .content3 {
 	background: white;
 	height: 110px;
+	overflow: auto;
 }
 .class3 .content .content3 .right{
     width: 130px;
@@ -161,13 +161,13 @@ ul {
 }
 /* css class4 */
 .class4 {
-	height: 250px; 
+	padding-bottom: 1px;
 }
 .class4 .content4 {
 	background: white;
 	margin:1px 10px 10px 0px;
-	height: 90px;
 	border: 1px solid  #dadada ;
 	padding-left: 10px;
-	line-height: 0.9;
+	line-height: 0.6;
+	overflow: auto;
 }

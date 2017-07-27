@@ -13,7 +13,7 @@ a:active {
 	color: blue;
 }
 .header {
-	background: url(../image/fill_header.jpg) no-repeat;
+	background: url(../image/fill_header.jpg) repeat-x;
 	height: 300px;
 }
 .header-img {
@@ -81,6 +81,7 @@ a:active {
     margin-left: 20px;
     width: 170px;
     font-size: 12px;
+    line-height: 1.4;
 }
 .left2 {
 	margin-top: 70px;
