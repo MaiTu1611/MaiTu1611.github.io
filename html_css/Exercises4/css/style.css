@@ -110,11 +110,12 @@ a:active {
 }
 .img2 {
 	margin-left: 15px;
-	margin-top: 15px;
+	margin-top: 20px;
 }
 .right-content {
-	    margin-top: 5px;
+	margin-top: 5px;
     margin-left: 15px;
+    margin-bottom: 18px;
     font-size: 11px;
     width: 370px;
 }

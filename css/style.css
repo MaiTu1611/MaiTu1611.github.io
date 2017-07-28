@@ -1,3 +1,8 @@
+@media print{
+	html, body {
+		display: none;
+	}
+}
 body {
 	background: white;
 	line-height: 1.5;
