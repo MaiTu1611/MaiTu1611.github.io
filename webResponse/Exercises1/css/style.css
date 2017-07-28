@@ -1,0 +1,58 @@
+body {
+	display: block;
+/*	min-width: 960px;
+	max-width: 960px;*/
+	margin: 0 auto;	
+}
+header {
+	width: 100%;
+	height: 190px;
+	border-top: 4px solid #f0831e;
+	position: relative;
+	clear: both;
+}
+h1 {
+	font-size: 12px;
+	text-align: left;
+}
+.phone_pc {
+	display: block;
+}
+.phone_sp {
+	display: none;
+}
+img.header_logo {
+	max-width: 430px;
+	width: 100%;
+	height: auto;
+	float: left;
+}
+.header_info {
+	max-width: 270px;
+	width: 100%;
+	font-size: 12px;
+	float: right;
+}
+#menu {
+	background: url(image/bg_menu.jpg) repeat-x left top;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+#menu ul{
+  list-style-type: none;
+  text-align: center;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+#menu ul li {
+  display: inline-table;
+  width: 13%;
+  position: relative;
+}
+#menu ul li > .subNav {
+  display: none;
+  position: absolute;
+}
+#menu ul li:hover .subNav {
+  display: block;
+}
