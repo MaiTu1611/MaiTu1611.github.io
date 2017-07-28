@@ -1,5 +1,5 @@
 body {
-		background: #292728;
+	background: #292728;
 }
 /* class public */
 .main {
@@ -33,7 +33,7 @@ body {
 /* class private */
 /* class1 */
 .class1 {
-	width: 930px;
+	width: 1000px;
 	height: 750px;
 	border-bottom: 1px dotted white;
 }
@@ -177,14 +177,14 @@ body {
 	width: 270px;
 	padding-left: 10px;
 	padding-top: 3px;
-	font-size: 11px;
+	font-size: 12px;
 	font-weight: bold;
 
 }
 .class1 .left .content2 .ct2-left .p4 .show1 select{
-	margin-left: 10px;
-	height: 22px;
-    width: 180px;
+	margin-left: 5px;
+    height: 22px;
+    width: 67%;
 }
 .class1 .left .content2 .ct2-right{
 	float: left;
@@ -310,6 +310,7 @@ body {
 /* class 2 */
 .class2 
 {
+	width: 1000px;
 	margin-top: 10px;
 	clear: both;
 	margin-right: 40px;
@@ -320,7 +321,7 @@ body {
 }
 /* footer */
 .footer {
-	width: 930px;
+	width: 1000px;
 	height: 50px;
 	font-size: 10px;
 	color: blue;
@@ -340,12 +341,12 @@ body {
 	color: yellow;
 }
 .footer .footer-content .footer-left {
-	width: 820px;
+	width: 90%;
 	float: left;
 	text-align: center;
 }
 .footer .footer-content .footer-right {
-	width: 100px;
+	width: 10%;
 	float: right;
 	text-align: center;
 }
