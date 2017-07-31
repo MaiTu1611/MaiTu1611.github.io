@@ -90,54 +90,54 @@ div.nav{
 	display:none;
 	}
 .mean-container .mean-nav ul li.menu_1 a{
-	background:url(../images/menu_1.jpg) no-repeat center center;
+	background:url(../image/menu_1.jpg) no-repeat center center;
 	}	
 .mean-container .mean-nav ul li.menu_2 a{
-	background:url(../images/menu_2.jpg) no-repeat center center;
+	background:url(../image/menu_2.jpg) no-repeat center center;
 	}
 .mean-container .mean-nav ul li.menu_3 a.menu_3{
-	background:url(../images/menu_3.jpg) no-repeat center center
+	background:url(../image/menu_3.jpg) no-repeat center center
 	}
 .mean-container .mean-nav ul li.menu_4 a{
-	background:url(../images/menu_4.jpg) no-repeat center center
+	background:url(../image/menu_4.jpg) no-repeat center center
 	}
 .mean-container .mean-nav ul li.menu_5 a{
-	background:url(../images/menu_5.jpg) no-repeat center center
+	background:url(../image/menu_5.jpg) no-repeat center center
 	}
 .mean-container .mean-nav ul li.menu_6 a{
-	background:url(../images/menu_6.jpg) no-repeat center center
+	background:url(../image/menu_6.jpg) no-repeat center center
 	}	
 .mean-container .mean-nav ul li.menu_7 a{
-	background:url(../images/menu_7.jpg) no-repeat center center
+	background:url(../image/menu_7.jpg) no-repeat center center
 	}
 
 .mean-container .mean-nav ul li.menu_1 a:hover,
 .mean-container .mean-nav ul li.menu_1 a.active{
-	background:url(../images/menu_1_hover.jpg) no-repeat center center;
+	background:url(../image/menu_1_hover.jpg) no-repeat center center;
 	}	
 .mean-container .mean-nav ul li.menu_2 a:hover,
 .mean-container .mean-nav ul li.menu_2 a.active{
-	background:url(../images/menu_2_hover.jpg) no-repeat center center;
+	background:url(../image/menu_2_hover.jpg) no-repeat center center;
 	}
 .mean-container .mean-nav ul li.menu_3 a:hover,
 .mean-container .mean-nav ul li.menu_3 a.active{
-	background:url(../images/menu_3_hover.jpg) no-repeat center center
+	background:url(../image/menu_3_hover.jpg) no-repeat center center
 	}
 .mean-container .mean-nav ul li.menu_4 a:hover,
 .mean-container .mean-nav ul li.menu_4 a.active{
-	background:url(../images/menu_4_hover.jpg) no-repeat center center
+	background:url(../image/menu_4_hover.jpg) no-repeat center center
 	}
 .mean-container .mean-nav ul li.menu_5 a:hover,
 .mean-container .mean-nav ul li.menu_5 a.active{
-	background:url(../images/menu_5_hover.jpg) no-repeat center center
+	background:url(../image/menu_5_hover.jpg) no-repeat center center
 	}
 .mean-container .mean-nav ul li.menu_6 a:hover,
 .mean-container .mean-nav ul li.menu_6 a.active{
-	background:url(../images/menu_6_hover.jpg) no-repeat center center
+	background:url(../image/menu_6_hover.jpg) no-repeat center center
 	}	
 .mean-container .mean-nav ul li.menu_7 a:hover,
 .mean-container .mean-nav ul li.menu_7 a.active{
-	background:url(../images/menu_7_hover.jpg) no-repeat center center
+	background:url(../image/menu_7_hover.jpg) no-repeat center center
 	}
 
 .mean-container .mean-nav ul li ul.subNav li.subNav {
