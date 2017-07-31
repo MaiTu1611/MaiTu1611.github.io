@@ -29,9 +29,7 @@ div.nav{
 	display:inline-block;	
 }
 .mean-container a.meanmenu-reveal {
-	width: 22px;
-	height: 22px;
-	padding: 13px 13px 11px 13px;
+	padding: 19px;
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -50,6 +48,7 @@ div.nav{
 	display: block;
 	background: #fff;
 	height: 3px;
+	width: 15px;
 	margin-top: 3px;
 }
 .mean-container .mean-nav {
@@ -79,7 +78,7 @@ div.nav{
 .mean-container .mean-nav ul li a {
 	display: block;
 	float: left;
-	width: 90%;
+	width: 100%;
 	padding: 0 5%;
 	margin: 0;
 	text-align: center;
