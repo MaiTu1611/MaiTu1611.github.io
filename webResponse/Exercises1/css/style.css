@@ -15,6 +15,9 @@ a {
 	text-decoration: none;
 	color: #806763;
 }
+a:hover {
+	text-decoration: underline;
+}
 header {
 	width: 100%;
 	height: auto;
@@ -217,7 +220,7 @@ section {
 	overflow: hidden;
 }
 #content_1 {
-	width: 70	%;
+	width: 70%;
 	max-width: 700px;	
 	float: left;
 }
@@ -377,7 +380,6 @@ footer {
 	width: 100%;
 	height: auto;
 	min-height: 240px;
-	max-height: 580px;
 	display: block;
 	margin-top: 60px;
 	padding-top: 30px;
@@ -395,7 +397,7 @@ footer .inner {
 }
 footer .float{
 	float: left;
-	margin-right: 20px;
+/*	margin-right: 20px;*/
 }
 .f_l {
 	width: 100%;
@@ -426,7 +428,7 @@ footer .float{
 .menu_footer_1 {
 	width: 100%;
     max-width: 300px;
-    height: auto;
+    height: 200px;
     border: 1px solid #b3b0b0;
     padding: 20px 0 20px 30px
 }
@@ -446,16 +448,17 @@ footer .float{
 .menu_footer_2 {
     width: 100%;
     max-width: 200px;
-    margin-left: 40px;
+    margin-left: 80px;
     background-color: white;
 }
 .menu_footer_2 ul {
-    padding-left: 30px;
+    /*padding-left: 30px;*/
+   	padding: 5px 0 5px 30px;
 }
 .menu_footer_2 ul li{
     background: url(../image/bullet_1.jpg) no-repeat left;
-    padding-left: 14px;
-    margin-left: 8px;
+ 	padding-left: 14px;
+ 	margin-left: 10	px;
 }
 .menu_footer_2 .menu_1{
     background: url(../image/aside_bullet_1.jpg) no-repeat left;
