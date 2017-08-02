@@ -4,10 +4,12 @@
 	}
 }
 body {
+	width: 100%;
 	background: white;
 	line-height: 1.5;
   	font-family: Georgia, 'Times New Roman', Times, serif;
   	font: 15px;
+  	margin: 0 auto;
 }
 ul {
 	list-style-type: none;
@@ -33,6 +35,12 @@ ul {
 }
 h1 {
 	margin-left: 50px;
+	width: 50%;
+    margin: auto;
+}
+div {
+	width: 50%;
+    margin: auto;
 }
 .title {
 	font-size: 20px;
