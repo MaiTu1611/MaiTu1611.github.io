@@ -1,4 +1,4 @@
-var myVinyls = {
+var myData = {
 	"Xuất sắc": 10,
 	"Tốt": 20,
 	"Trung Bình": 10,
@@ -8,8 +8,9 @@ var myVinyls = {
 var options = {
 	canvas: canvasChart1,
 	descript: discription,
-	data: myVinyls,
-	color: ["#4267b1","#ff1100", "#ff9800","#189747"]
+	data: myData,
+	color: ["#4267b1","#ff1100", "#ff9800","#189747"],
+	radiusMiniCircle: 0.5
 };
 
 var chart = (function() {
@@ -18,6 +19,8 @@ var chart = (function() {
 	var data = options.data;
 	var colors = options.color;
 	var descript = options.descript;
+	var radiusMiniCircle = options.radiusMiniCircle;
+	var radiusCircle = Math.min(canva.width/2, canva.height/2);
 
 	/**
 	 * Funtion to draw Arc shape
@@ -37,11 +40,6 @@ var chart = (function() {
 		ctx.closePath();
 		ctx.fill();
 	}
-	drawPercent = function(centerX, centerY, String) {
-		ctx.fillStyle = "#000";
-		ctx.font = "30px Arial";
-		ctx.fillText(String + "%", centerX + 25, centerY + 25);
-	}
 
 	/**
 	 * Function to set info end call drawPieSlice
@@ -57,28 +55,69 @@ var chart = (function() {
 		for (var temp in data) {
 			var val = data[temp];
 			var angleEnd = Math.PI*2*val/totalVal;
+
+			/* DrawCircle */
 			drawPieSlice(
 				ctx,
 				canva.width/2,
 				canva.height/2,
-				Math.min(canva.width/2, canva.height/2),
+				radiusCircle,
 				angleStart,
 				angleStart + angleEnd,
 				colors[colorIndex]
 			);
-			console.log(Math.abs((angleEnd * canva.width - 150)%(canva.width)));
+
+			/* DrawPercent */
+			var currentX = canva.width / 2 + (radiusCircle / 2) * Math.cos(angleStart + angleEnd / 2);
+			var currentY = canva.height / 2 + (radiusCircle / 2) * Math.sin(angleStart + angleEnd / 2);
+
+			if (radiusMiniCircle) { // if mini circle exist 
+				var temp = radiusCircle * radiusMiniCircle / 2;
+				currentX = canva.width / 2 + (temp + radiusCircle / 2) * Math.cos(angleStart + angleEnd / 2);
+				currentY = canva.height / 2 + (temp + radiusCircle / 2) * Math.sin(angleStart + angleEnd / 2);
+			}
+
+			ctx.fillStyle = "#000";
+			ctx.font = "20px Arial";
+			ctx.fillText(val + "%", currentX - 15, currentY + 4);
 			angleStart += angleEnd;
 			colorIndex++;
 		}
 	}
 	/**
-	 * Function draw percent 
+	 * Function to draw circle mini in center chart1
 	 */
-	 privateDrawPercent = function() {
-	 	
+	 privateMiniCircle = function() {
+	 	 drawPieSlice(
+	 	 	ctx,
+			canva.width/2,
+			canva.height/2,
+			radiusMiniCircle * radiusCircle,
+			0,
+			Math.PI * 2,
+			"#fff"
+			);
 	 }
+	 /**
+	  * Function draw description
+	  */
+	  privateDrawDescription = function() {
+	  		var colorIndex = 0;
+	  		var tempHTML = ""; // save String HTML to add file html
+	  		for(var temp in data) {
+	  			tempHTML += "<div><span style='display:inline-block;width:20px;background-color:" + colors[colorIndex++] + ";'>&nbsp;&nbsp;&nbsp;</span>" + "  " + temp + "</div>"; 
+	  		}
+	  		descript.innerHTML = tempHTML;
+	  }
+	 /* Public function */
+	 publicDrawChart = function() {
+	 	privateChart1();
+	 	privateMiniCircle();
+	 	privateDrawDescription();
+	 }
+
 	return {
-		draw: privateChart1
+		draw: publicDrawChart
 	}
 })();
 	chart.draw();
