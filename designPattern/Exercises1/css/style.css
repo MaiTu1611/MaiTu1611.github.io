@@ -81,11 +81,10 @@ p {
 }
 /* css for image mini */
 #window_mini {
-	width: 800px;
+	width: 440px;
 	margin: 10px auto;
-	padding-left: 23%;
 	overflow: hidden;
-	position: absolute;
+	position: relative;
 	top: 430px;
 }
 #window_mini .slide_mini {
