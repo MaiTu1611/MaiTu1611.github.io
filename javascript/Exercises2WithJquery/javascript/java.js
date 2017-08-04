@@ -73,6 +73,7 @@ $("#PreviousMonth").click(function() {
 	CURRENT_MONTH --;
 	if (CURRENT_MONTH < 1) {
 		CURRENT_MONTH = 12;
+		CURRENT_YEAR--;
 	}
 	calendar();
 });
@@ -84,6 +85,7 @@ $("#NextMonth").click(function() {
 	CURRENT_MONTH ++;
 	if (CURRENT_MONTH > 12) {
 		CURRENT_MONTH = 1;
+		CURRENT_YEAR++;
 	}
 	calendar();
 });
