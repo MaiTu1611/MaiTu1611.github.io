@@ -47,7 +47,7 @@ var slide = (function() {
 	 	imageCurrent = index;
 	 }
 
-	 /**
+	/**
 	 * Function to blur image
 	 * param {number} numberOfImage is sequence number of the image
 	 */
@@ -55,7 +55,8 @@ var slide = (function() {
 	 	imageMini.css("opacity","0.5");// blur all mini image
 	 	imageMini.eq(imageCurrent).css("opacity","1");
 	 }
-	  /**
+
+	/**
 	 * Function to blur image
 	 * param {number} numberOfImage is sequence number of the image
 	 */
@@ -63,6 +64,7 @@ var slide = (function() {
 	 	image.css("opacity","0");// blur all mini image
 	 	image.eq(imageCurrent).css("opacity","1");
 	 }
+
 	/**
 	 * Function for event reset timeout to auto slice
 	 */
