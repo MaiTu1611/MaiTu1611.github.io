@@ -15,13 +15,21 @@ var options = {
 
 var chart = (function() {
 	var canva = options.canvas;
+	canva.width = 300;
+	canva.height = 300;
 	var ctx = canva.getContext("2d");
 	var data = options.data;
 	var colors = options.color;
 	var descript = options.descript;
 	var radiusMiniCircle = options.radiusMiniCircle;
 	var radiusCircle = Math.min(canva.width/2, canva.height/2);
-
+	var flag = true;
+	//  check value input
+	for (var i in data) {
+		if (data[i] <= 0) {
+			flag = false;
+		}
+	}
 	/**
 	 * Funtion to draw Arc shape
 	 * @param {canvas} ctx
@@ -84,6 +92,7 @@ var chart = (function() {
 			colorIndex++;
 		}
 	}
+
 	/**
 	 * Function to draw circle mini in center chart1
 	 */
@@ -98,6 +107,7 @@ var chart = (function() {
 			"#fff"
 			);
 	 }
+
 	 /**
 	  * Function draw description
 	  */
@@ -109,15 +119,22 @@ var chart = (function() {
 	  		}
 	  		descript.innerHTML = tempHTML;
 	  }
+
 	 /* Public function */
 	 publicDrawChart = function() {
-	 	privateChart1();
-	 	privateMiniCircle();
-	 	privateDrawDescription();
+	 	if (flag) {
+		 	privateChart1();
+		 	privateMiniCircle();
+		 	privateDrawDescription();
+		} else {
+			alert("Input Fail");
+		}
 	 }
 
 	return {
 		draw: publicDrawChart
 	}
 })();
+$(document).ready(function() {
 	chart.draw();
+});	

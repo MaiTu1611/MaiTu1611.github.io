@@ -1,140 +1,119 @@
-var myData = {
-	"Xuất sắc": 10,
-	"Tốt": 20,
-	"Trung Bình": 10,
-	"Kém": 60
-};
-
+var myData = [80, 20];
+var myDataTitle = ["ĐÃ ĐẠT", "CHƯA ĐẠT",];
 var options = {
 	canvas: canvasChart1,
-	descript: discription,
 	data: myData,
-	color: ["#4267b1","#ff1100", "#ff9800","#189747"],
-	color3D: ["#0055ff","#d03227", "#ffc107","#1a7b1e"],
-	radiusMiniCircle: 0.5
+	dataTitle: myDataTitle,
+	color3D: ["#00ccff", "#0033cc", "#ff0000", "#a00505"],
 };
 
 var chart = (function() {
 	var canva = options.canvas;
+	canva.width = 600;
+	canva.height = 300;
 	var ctx = canva.getContext("2d");
 	var data = options.data;
-	var colors = options.color;
+	var dataTitle = options.dataTitle;
 	var colors3D = options.color3D;
-	var descript = options.descript;
-	var radiusMiniCircle = options.radiusMiniCircle;
-	var radiusCircle = Math.min(canva.width/12, canva.height/12);
-	var newCenterCircle = 0;
+	var radius = Math.min(canva.width/2, canva.height/2);
+	var centerX =  canva.width/2;
+	var centerY = canva.height;
+	var xScale = 1;
+	var yScale = 0.4;
+	var space = 15;
+	var totalVal = 0;
+	var colorIndex = 0;
+	var angleSuccess = 0;
+	var flag = true;
+	//  check value input
+	for (var i in data) {
+		if (data[i] <= 0) {
+			flag = false;
+		}
+	}
 
-	/**
-	 * Funtion to draw Arc shape
-	 * @param {canvas} ctx
-	 * @param {number} centerX of circle in x-axis
-	 * @param {number} centerY of circle in y-axis
-	 * @param {number} radius of cirle 
-	 * @param {number} angleStart
-	 * @param {number} angleEnd
-	 * @param {color} color of arc shape
-	 */
-	drawPieSlice = function(ctx, centerX, centerY, radius, angleStart, angleEnd, color) {
-		ctx.fillStyle = color;
-		ctx.beginPath();
-		ctx.moveTo(centerX, centerY);
-		ctx.ellipse(centerX, centerY, radius * 3.5, radius, 0, angleStart, angleEnd);
-		ctx.closePath();
-		ctx.fill();
+	function draw3DPieChart() {
+		for (var temp in data)
+ 		{
+ 			var val = data[temp];
+ 			totalVal += val;
+ 		}
+ 		angleSuccess = 2 * Math.PI * data[0] /totalVal;
+ 		for(i = 100; i > 0; i--) {
+	 			privateDrawChart(0, 0, 0, angleSuccess); // call function to draw % success
+				privateDrawChart(space, 2, angleSuccess, -0.01); // call function to draw % fail
+		}
 	}
 
 	/**
-	 * Function to set info end call drawPieSlice
+	 * Function draw % success or % fail
 	 */
-	 privateChart1 = function() {
-		var totalVal = 0;
-		var colorIndex = 0;
-		for (var temp in data) {
-			var val = data[temp];
-			totalVal += val;
-		}
-		for (var i = 40; i > 0; i--) {
-			var colorIndex3D = 0;
-			var angleStart = -Math.PI/2;
-			for (var temp in data) {
-				var val = data[temp];
-				var angleEnd = Math.PI*2*val/totalVal;
-				/* DrawCircle */
-				drawPieSlice(
-					ctx,
-					canva.width/2,
-					canva.height/2 + i,
-					radiusCircle,
-					angleStart,
-					angleStart + angleEnd,
-					colors3D[colorIndex3D]
-				);
-				angleStart += angleEnd;
-				colorIndex3D++;
+	privateDrawChart = function(spaceFail, colorIndex, angleStart, angleEnd) {
+			ctx.save(); // save default state
+			ctx.scale(xScale, yScale); // scale canvas make circle to eclipse
+			ctx.beginPath(); // begin draw
+			ctx.arc(centerX + spaceFail, centerY - spaceFail + i, radius, angleStart, angleEnd); //0, 2 * Math.PI * success); // draw circle
+			ctx.lineTo(centerX + spaceFail, centerY - spaceFail + i); // distance between 2 block
+			ctx.restore(); // Restore original state
+			if (i==1) {
+				ctx.fillStyle = colors3D[colorIndex]; // top of chart
 			}
-		}
-		var angleStart = -Math.PI/2;
-		for (var temp in data) {
-			var val = data[temp];
-			var angleEnd = Math.PI*2*val/totalVal;
-
-			/* DrawCircle */
-			drawPieSlice(
-				ctx,
-				canva.width/2,
-				canva.height/2,
-				radiusCircle,
-				angleStart,
-				angleStart + angleEnd,
-				colors[colorIndex]
-			);
-
-			/* DrawPercent */
-			var currentX = canva.width / 2 + (radiusCircle / 2) * Math.cos(angleStart + angleEnd / 2) * 3.5;
-			var currentY = canva.height / 2 + (radiusCircle / 2) * Math.sin(angleStart + angleEnd / 2) * 1.5;
-			ctx.fillStyle = "#fff";
-			ctx.font = "10pt Arial";
-			ctx.fillText(val + "%", currentX, currentY + 4);
-
-			angleStart += angleEnd;
-			colorIndex++;
-		}
+			else {
+				ctx.fillStyle = colors3D[colorIndex + 1];
+			}
+			ctx.fill();
 	}
-	/**
-	 * Function to draw circle mini in center chart1
-	 */
-	 privateMiniCircle = function() {
-	 	 drawPieSlice(
-	 	 	ctx,
-			canva.width/2,
-			canva.height/2,
-			radiusMiniCircle * radiusCircle,
-			0,
-			Math.PI * 2,
-			"#fff"
-			);
-	 }
+
 	 /**
 	  * Function draw description
 	  */
 	  privateDrawDescription = function() {
-	  		var colorIndex = 0;
-	  		var tempHTML = ""; // save String HTML to add file html
-	  		for(var temp in data) {
-	  			tempHTML += "<div><span style='display:inline-block;width:20px;background-color:" + colors[colorIndex++] + ";'>&nbsp;&nbsp;&nbsp;</span>" + "  " + temp + "</div>"; 
-	  		}
-	  		descript.innerHTML = tempHTML;
+	  		var angleStart = 0;
+	  		for (var temp in data) {
+	  			var width = 70;
+				var val = data[temp];
+				var percent = val/totalVal;
+				var angleEnd = Math.PI * 2 * percent;
+				width = percent < 0.5 ? 100 : -100;
+		  		var currentX = canva.width / 3 + (radius / 2) * Math.cos(angleStart + angleEnd / 2) + 100;
+				var currentY = canva.height / 3 + (radius / 2) * Math.sin(angleStart + angleEnd / 2) * yScale + 20;
+				privateDrawLine(currentX, currentY, currentX + width, currentY - 70, width, "blue");
+				ctx.fillStyle = "#000";
+				ctx.font = "15px Arial";
+				width = percent < 0.5 ? 50 : -100;
+				ctx.fillText(Math.round(percent * 100) + "% " + dataTitle[temp], currentX + width*2, currentY - 73);
+				angleStart += angleEnd;
+			}
 	  }
+
+	 /**
+	  * Function draw line to comment percent
+	  */
+	 privateDrawLine = function(firstX, firstY, secondX, secondY, width, color) {
+		ctx.strokeStyle = color;
+		ctx.lineWidth = 2;
+		ctx.beginPath();
+		ctx.moveTo(firstX, firstY);
+		ctx.lineTo (secondX ,secondY);
+		ctx.lineTo (secondX + width, secondY);
+		ctx.stroke();
+	}
+
 	 /* Public function */
 	 publicDrawChart = function() {
-	 	privateChart1();
-	 	// privateMiniCircle();
-	 	privateDrawDescription();
+	 	if (flag) {
+	 		draw3DPieChart();
+	 		privateDrawDescription();
+		} else {
+			alert("Input Fail");
+		}
 	 }
 
 	return {
 		draw: publicDrawChart
 	}
 })();
+
+$(document).ready(function() {
 	chart.draw();
+})
