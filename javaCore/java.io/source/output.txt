@@ -1,0 +1,318 @@
+﻿Day la file test doc ghi file
+GAMEK
+KENH14
+CAFEBIZ
+MOBILE
+TIN ICT
+INTERNET
+KHÁM PHÁ
+
+VIDEO
+
+TRANG CHỦ › MÁY TÍNH
+Intel Core i7 và i5 thế hệ 8 lộ diện ngay sau khi Intel công bố ngày ra mắt Coffee Lake, gieo thêm sầu cho người dùng Kaby Lake
+MASTER DÙI , THEO TRÍ THỨC TRẺ 3 GIỜ TRƯỚC
+Bình luận 0Chia sẻ
+Intel ấn định ngày bán ra CPU 18 nhân Core i9-7980XE: 25/9 lên kệ, giá chỉ 2000 USD
+Intel đi nước cờ khó hiểu, không cho Coffee Lake tương thích ngược với bo mạch chủ của Kaby Lake dù cùng tiến trình 14nm
+Chênh lệch tới 2 nhân xử lý là điều mà không phải ai cũng có thể nuốt trôi.
+
+Hôm qua, Intel đã công bố ngày trình làng Coffee Lake vào 21/8. Gần như ngay lập tức, thông tin về các mã CPU Core thế hệ 8 dành cho máy bàn đã bị rò rỉ trên một diễn đàn công nghệ của Trung Quốc. Khởi đầu là i3-8100 và i3-8350K với 4 nhân 4 luồng đủ để khiến những người dùng i3 Kaby Lake khóc hận.
+
+
+
+Như để xát thêm muối vào vết thương, thông tin về i7-8700K và i7-8700 cũng xuất hiện ngay sau đó. Với số nhân/luồng gấp rưỡi người tiền nhiệm, lên tới 6 nhân 12 luồng, hiệu năng của cặp đôi i7 này được dự đoán sẽ mạnh hơn i7-7700K và i7-7700 khoảng 50%. Đây sẽ đánh dấu một bước nhảy vọt về hiệu năng bởi trước nay, sự chênh lệch giữa 2 thế hệ CPU liền kề dựa trên cùng 1 tiến trình của Intel chỉ cao nhất là 25%.
+
+
+
+Bước nhảy vọt về hiệu năng cũng như số nhân/luồng này hứa hẹn sẽ tạo tiền đề cho các thế hệ CPU sau của Intel như Cannon Lake. Hẳn Intel cũng có cái lí của họ khi tận dụng tiến trình 14nm thêm một lần nữa để thử nghiệm thiết kế CPU 6 nhân trên socket LGA 115x, đặc biệt là khi bề mặt tiếp xúc của 2 thế hệ CPU Kaby Lake và Coffee Lake gần như không có khác biệt. Sẽ chẳng có gì là quá lạc quan khi trông đợi Core i3 thế hệ thứ 9 sẽ có tới 6 dựa trên tiến trình 10nm.
+
+
+
+Cũng chỉ vài giờ sau khi thông tin về i7-8700K và i7-8700 bị lộ, i5-8600K và i5-8400 lập tức bị “lộ hàng”. Với 6 nhân 6 luồng ở xung nhịp gốc 3.6 GHz, chúng ta chắc chắn sẽ chứng kiến một bước nhảy vọt về hiệu năng. Đặc biệt, với số nhân này, giờ đây Core i5 có thể cạnh tranh sòng phẳng với Ryzen 5 cao cấp ở hiệu năng nhờ chỉ số IPC cao.
+
+Tuy nhiên, với yếu điểm thiếu hụt công nghệ HyperThreading, các CPU i5 Coffee Lake chắc chắn sẽ bất lợi nhưng với game thì quả thực Ryzen 5 không có cửa cạnh tranh. Chắc chắn, với thông số nhân/luồng và xung nhịp này, Core i5 Coffee Lake sẽ là lựa chọn hàng đầu cho các dàn máy chơi game tầm trung, 20 đến 30 triệu đồng.
+
+Intel bất ngờ công bố lịch ra mắt Coffee Lake vào 21/8, biến Kaby Lake trở thành thế hệ CPU có vòng đời ngắn nhất
+Chia sẻ
+Bấm để thiết lập
+Tags:
+chip xử lý
+intel
+máy chơi game
+intel core i7
+
+
+
+
+Tuyệt chiêu nói giỏi tiếng Anh
+br1.topicanative.edu.vn
+Tuyệt chiêu nói giỏi tiếng AnhLuyện nói hàng ngày với thầy Tây không cần phải đến lớp, có lộ trình học tập riêng
+Xóa bỏ sợ hãi khi nói tiếng Anh
+anhngutructuyen.native.edu.vn
+Xóa bỏ sợ hãi khi nói tiếng AnhGiao tiếp tiếng Anh- nỗi sợ hãi của nhiều người. Để tự tin giao tiếp nên học với thầy Tây
+45 phút mỗi ngày để giỏi tiếng Anh
+anhngutructuyen.native.edu.vn
+45 phút mỗi ngày để giỏi tiếng AnhChỉ cần bỏ ra 45 phút/ ngày luyện nói với giáo viên bản ngữ khả năng giao tiếp tăng nhanh
+Đẩy lùi nỗi sợ tiếng Anh với 45' online
+br1.topicanative.edu.vn
+Đẩy lùi nỗi sợ tiếng Anh với 45' onlineGiáo viên hướng dẫn luôn bám sát và hỗ trợ từng học viên, ca học thỏa thích từ 8h-24h
+Bình luận
+Tin cùng chuyên mục Xem theo ngày
+Ngày
+Tháng
+Năm
+ XEM
+ Intel bất ngờ công bố lịch ra mắt Coffee Lake vào 21/8, biến Kaby Lake trở thành thế hệ CPU có vòng đời ngắn nhất
+Intel bất ngờ công bố lịch ra mắt Coffee Lake vào 21/8, biến Kaby Lake trở thành thế hệ CPU có vòng đời ngắn nhất
+
+Ngoài ra các thông tin về i3-8100 và i3-8350K cũng bị rò rỉ ngay khi thông tin về ngày ra mắt xuất hiện.
+Intel ấn định ngày bán ra CPU 18 nhân Core i9-7980XE: 25/9 lên kệ, giá chỉ 2000 USD
+Intel ấn định ngày bán ra CPU 18 nhân Core i9-7980XE: 25/9 lên kệ, giá chỉ 2000 USD
+
+Ít nhất thì ngôi vương về hiệu năng của Intel vẫn chưa thể bị lung lay, có điều giá thì... Xuất hiện điểm benchmark của AMD Ryzen Threadripper: không thể ấn tượng hơn
+Xuất hiện điểm benchmark của AMD Ryzen Threadripper: không thể...
+1 ngày trước
+AMD Radeon RX Vega sẽ có bản x2: cực mạnh, tản nhiệt nước nhưng cũng cực kì tốn điện
+AMD Radeon RX Vega sẽ có bản x2: cực mạnh, tản nhiệt nước nhưng...
+1 ngày trước
+View Sonic VA2407h: Đừng coi thường màn hình chơi game ở phân khúc thấp
+View Sonic VA2407h: Đừng coi thường màn hình chơi game ở phân...
+1 ngày trước
+Đánh giá nhanh SSD Plextor M8SeY: Sức mạnh không ngờ của SSD mà cắm cổng Card đồ họa
+Đánh giá nhanh SSD Plextor M8SeY: Sức mạnh không ngờ của SSD mà...
+2 ngày trước
+TIN NỔI BẬT
+Intel Core i7 và i5 thế hệ 8 lộ diện ngay sau khi Intel công bố ngày ra mắt Coffee Lake, gieo thêm sầu cho người dùng Kaby Lake
+Intel Core i7 và i5 thế hệ 8 lộ diện ngay sau khi Intel công bố ngày ra mắt Coffee Lake, gieo thêm sầu cho người dùng Kaby Lake
+Ngay giữa tâm điểm BPhone 2017, một nhà sản xuất smartphone Việt tuyên bố sẽ vào thị trường trong tháng này, mục tiêu bán 20 nghìn máy/tháng
+Ngay giữa tâm điểm BPhone 2017, một nhà sản xuất smartphone Việt tuyên bố sẽ vào thị trường trong tháng này, mục tiêu bán 20 nghìn máy/tháng
+Chiếc điện thoại Trung Quốc không viền này chính là tương lai của smartphone?
+Chiếc điện thoại Trung Quốc không viền này chính là tương lai của smartphone?
+Phó chủ tịch BKAV: Bphone 2017 Gold sẽ chỉ bán tại Dubai, người Việt muốn mua thì phải mua hàng xách tay
+Phó chủ tịch BKAV: Bphone 2017 Gold sẽ chỉ bán tại Dubai, người Việt muốn mua thì phải mua hàng xách tay
+Vừa biểu diễn ngon lành xong, chú robot tội nghiệp trượt chân ngã sấp mặt
+Vừa biểu diễn ngon lành xong, chú robot tội nghiệp trượt chân ngã sấp mặt
+TIN MỚI
+Tự tạo icon ứng dụng mang đậm chất cá nhân cho iPhone mà không cần Jailbreak
+Tự tạo icon ứng dụng mang đậm chất cá nhân cho iPhone mà không cần Jailbreak
+
+Thủ thuật - 22 phút trước
+Không cần phải trải qua việc Jailbreak mất bảo hành mới có thể tự tạo cho mình một icon ứng dụng trên...
+Không chất: Bphone 2017 dùng kính Gorilla Glass 3 từ năm 2013
+Không chất: Bphone 2017 dùng kính Gorilla Glass 3 từ năm 2013
+
+Mobile - 1 giờ trước
+BKAV nói rằng màn hình của Bphone 2017 "chất từng chi tiết", tuy nhiên tiếc rằng lớp kính bảo vệ cho...
+Samsung đánh bại Apple với thị phần cao nhất tại Mỹ, tuy nhiên Galaxy S8 không nằm trong top 3
+Samsung đánh bại Apple với thị phần cao nhất tại Mỹ, tuy nhiên Galaxy S8 không nằm trong top 3
+
+Mobile - 2 giờ trước
+Samsung trở thành hãng smartphone có thị phần lớn nhất tại thị trường Mỹ.
+Intel Core i7 và i5 thế hệ 8 lộ diện ngay sau khi Intel công bố ngày ra mắt Coffee Lake, gieo thêm sầu cho người dùng Kaby Lake
+Intel Core i7 và i5 thế hệ 8 lộ diện ngay sau khi Intel công bố ngày ra mắt Coffee Lake, gieo thêm sầu cho người dùng Kaby Lake
+
+Máy tính - 3 giờ trước
+Chênh lệch tới 2 nhân xử lý là điều mà không phải ai cũng có thể nuốt trôi.
+Cận cảnh "nghĩa địa TV" bao gồm 56.000 tấn TV cũ trong kho, công ty tái chế bị phạt 14 triệu USD để dọn chỗ này
+Cận cảnh "nghĩa địa TV" bao gồm 56.000 tấn TV cũ trong kho, công ty tái chế bị phạt 14 triệu USD để dọn chỗ này
+
+Khám phá - 3 giờ trước
+Một nghĩa địa TV không hơn không kém.
+ĐÁNG CHÚ Ý
+Hacker 22 tuổi Marcus Hutchins: Từ người hùng cứu cả thế giới trước WannaCry trở thành kẻ tội phạm sa ngã
+Hacker 22 tuổi Marcus Hutchins: Từ người hùng cứu cả thế giới trước WannaCry trở thành kẻ tội phạm sa ngã
+20k 626
+Đích thân cựu phó chủ tịch của Google khuyên người dùng bỏ Android, chọn iPhone nếu muốn chụp ảnh đẹp
+Đích thân cựu phó chủ tịch của Google khuyên người dùng bỏ Android, chọn iPhone nếu muốn chụp ảnh đẹp
+47k 5015
+Tạm biệt iPhone: điện thoại Android 180 đô của tôi đã đủ tốt rồi
+Tạm biệt iPhone: điện thoại Android 180 đô của tôi đã đủ tốt rồi
+38k 1531
+Đây là cách người thành công đối phó với những kẻ khó chịu trong đời
+Đây là cách người thành công đối phó với những kẻ khó chịu trong đời
+
+Sống - 3 giờ trước
+Trong công việc, cuộc sống, tình cảm... của mỗi người đều có những kẻ khó chịu bao quanh, thứ năng...
+CEO Xiaomi đang sử dụng một chiếc smartphone bí mật có tỷ lệ màn hình 18:9, rất có thể là Mi Mix 2
+CEO Xiaomi đang sử dụng một chiếc smartphone bí mật có tỷ lệ màn hình 18:9, rất có thể là Mi Mix 2
+
+Mobile - 3 giờ trước
+Mi Mix 2 được kỳ vọng sẽ có thiết kế đột phá hơn so với người tiền nhiệm của mình.
+Phó CT BKAV giải thích AI camera làm được gì: vừa chạy vừa chụp cũng không bị nhòe
+Phó CT BKAV giải thích AI camera làm được gì: vừa chạy vừa chụp cũng không bị nhòe
+
+Mobile - 3 giờ trước
+Camera trên các Smartphone hiện nay là chi tiết được rất nhiều người quan tâm khi chọn mua một chiếc...
+Tôi đang nhìn thấy một BKAV chân thành và khiêm tốn hơn rất nhiều
+Tôi đang nhìn thấy một BKAV chân thành và khiêm tốn hơn rất nhiều
+
+Điện thoại - 4 giờ trước
+Những bài học từ khó khăn của BPhone 1 không chỉ đem đến một chiếc smartphone hoàn thiện hơn: Buổi lễ...
+Apple bị buộc tội "không nghĩ cho khách hàng" vì từ chối ứng dụng chặn cuộc gọi tiếp thị
+Apple bị buộc tội "không nghĩ cho khách hàng" vì từ chối ứng dụng chặn cuộc gọi tiếp thị
+
+Tin ICT - 5 giờ trước
+Một ứng dụng tên Do Not Disturb có chức năng chặn tin nhắn và cuộc gọi từ đầu số tiếp thị tại Ấn Độ đã...
+Sự kiện: Magazine - nơi tụ hội của những bài viết đáng đọc nhất
+
+Bài đặc biệt: Lời nguyền hòn lục bảo Bahia
+Bài đặc biệt: Lời nguyền hòn lục bảo Bahia
+Những cuộc cách mạng công nghệ phi thường đến từ gã bán sách đáng sợ nhất thế giới
+Những cuộc cách mạng công nghệ phi thường đến từ gã bán sách đáng...
+Kỷ niệm 10 năm lịch sử: Chuyện chưa bao giờ kể về nguồn gốc bí mật của chiếc iPhone
+Kỷ niệm 10 năm lịch sử: Chuyện chưa bao giờ kể về nguồn gốc bí mật...
+Tài năng phi thường của người lãnh đạo đã giúp NVIDIA lật đổ Intel, để đi đầu về trí tuệ nhân tạo như thế nào?
+Tài năng phi thường của người lãnh đạo đã giúp NVIDIA lật đổ Intel,...
+Những câu chuyện chưa kể về cuộc chiến giữa iPhone và 2 đời CEO bất lực của Nokia
+Những câu chuyện chưa kể về cuộc chiến giữa iPhone và 2 đời CEO bất...
+Gặp gỡ Vũ Duy Thức, người Việt thổi hồn cho robot ngay tại Thung lũng Silicon
+Gặp gỡ Vũ Duy Thức, người Việt thổi hồn cho robot ngay tại Thung...
+Chân dung Satya Nadella, vị thuyền trưởng dẫn đầu cho cuộc hồi sinh vĩ đại của Microsoft
+Chân dung Satya Nadella, vị thuyền trưởng dẫn đầu cho cuộc hồi sinh...
+Sony đã trượt dài từ vị thế kẻ thống trị toàn cầu đến thực tại mờ nhạt như thế nào?
+Sony đã trượt dài từ vị thế kẻ thống trị toàn cầu đến thực tại mờ...
+Đánh giá chi tiết Samsung Galaxy S8: Màn hình Vô cực - Tiềm năng Vô tận
+Đánh giá chi tiết Samsung Galaxy S8: Màn hình Vô cực - Tiềm năng Vô...
+AMD - Hành trình từ kẻ làm thuê đến khoảnh khắc đánh bại Intel trong cuộc chiến 64-bit
+AMD - Hành trình từ kẻ làm thuê đến khoảnh khắc đánh bại Intel...
+[Ảnh] Nếu giấc mơ có thật thì cũng chỉ đẹp được đến mức này mà thôi
+[Ảnh] Nếu giấc mơ có thật thì cũng chỉ đẹp được đến mức này mà thôi
+
+Sống - 5 giờ trước
+Không chỉ pha trộn những bức ảnh với nhau, nghệ sĩ Hüseyin Şahin còn khiến cả thế giới...
+Chiếc điện thoại Trung Quốc không viền này chính là tương lai của smartphone?
+Chiếc điện thoại Trung Quốc không viền này chính là tương lai của smartphone?
+
+Mobile - 5 giờ trước
+Sharp, hãng điện tử Nhật Bản bị Foxconn Trung Quốc thâu tóm năm ngoái, vừa công bố smartphone mới nhất...
+Cùng ngắm nhìn vẻ bề ngoài của siêu nhà máy khổng lồ Tesla Gigafactory rộng tới hơn 5 triệu mét vuông
+Cùng ngắm nhìn vẻ bề ngoài của siêu nhà máy khổng lồ Tesla Gigafactory rộng tới hơn 5 triệu mét vuông
+
+Sống - 6 giờ trước
+Siêu nhà máy Gigafactory mới chỉ là dự án đầu tiên nằm trong kế hoạch xây dựng chuỗi các nhà máy tại...
+Microsoft: "Ngày mà các game thủ PS4, Xbox One và PC về chung một nhà sẽ không còn xa"
+Microsoft: "Ngày mà các game thủ PS4, Xbox One và PC về chung một nhà sẽ không còn xa"
+
+Tin ICT - 6 giờ trước
+Nếu nhìn nhận một cách lạc quan thì đây sẽ là một hướng đi mới cho nền công nghiệp video game. Tuy...
+Bphone 2017 đã chọn sai thị trường rồi, hãy bắt đầu từ thị trường ngách!
+Bphone 2017 đã chọn sai thị trường rồi, hãy bắt đầu từ thị trường ngách!
+
+Mobile - 7 giờ trước
+Mới đây, Bkav đã cho ra mắt chiếc điện thoại Bphone 2017 với thông điệp xuyên suốt là CHẤT. Tuy nhiên,...
+Không cà phê, không trà... chỉ uống nước lọc trong 1 tháng thì điều gì sẽ xảy ra với cơ thể bạn?
+Không cà phê, không trà... chỉ uống nước lọc trong 1 tháng thì điều gì sẽ xảy ra với cơ thể bạn?
+
+Bạn không chỉ tiết kiệm được một khoản tiền kha khá.
+Sống -- Cũ mà hay --
+40 trang học online dạy bạn mọi thứ trên đời
+40 trang học online dạy bạn mọi thứ trên đời
+
+Những website và ứng dụng dưới đây có thể cung cấp cho bạn lượng kiến thức...
+Khám phá -- Cũ mà hay --
+Kỹ thuật này của người Nhật sẽ giúp bạn giảm mỡ bụng cực kỳ hiệu quả mà chỉ cần 2 phút mỗi ngày
+Kỹ thuật này của người Nhật sẽ giúp bạn giảm mỡ bụng cực kỳ hiệu quả mà chỉ cần 2 phút mỗi ngày
+
+Sống - 7 giờ trước
+Gần đây, diễn viên Nhật Bản Miki Ryosuke đã phát hiện ra một bài tập cực kỳ thú vị giúp...
+Hóa ra mặc đẹp có thể khiến đàn ông "quyền lực và thành công hơn"
+Hóa ra mặc đẹp có thể khiến đàn ông "quyền lực và thành công hơn"
+
+Sống - 8 giờ trước
+Theo Wall Street Journal, mặc đẹp và thành công có sự liên quan nhất định chứ không phải một câu đùa....
+Phó chủ tịch BKAV: Bphone 2017 Gold sẽ chỉ bán tại Dubai, người Việt muốn mua thì phải mua hàng xách tay
+Phó chủ tịch BKAV: Bphone 2017 Gold sẽ chỉ bán tại Dubai, người Việt muốn mua thì phải mua hàng xách tay
+
+Điện thoại - 8 giờ trước
+Đây sẽ là thị trường mang lại lợi nhuận và thành công cho BKAV và Bphone 2017 Gold?
+Người thừa kế Samsung nén nước mắt khi bị đề nghị án tù dài nhất lịch sử
+Người thừa kế Samsung nén nước mắt khi bị đề nghị án tù dài nhất lịch sử
+
+Tin ICT - 8 giờ trước
+Jay Y.Lee, Phó Chủ tịch Samsung Electronics, đang đối mặt án tù dài nhất lịch sử với tư cách lãnh đạo...
+Google ch&#237;nh thức giương cờ trắng tại Nga: người Nga được quyền lựa chọn Yandex khi t&#236;m kiếm bằng Chrome tr&#234;n Android
+Google chính thức giương cờ trắng tại Nga: người Nga được quyền lựa chọn Yandex khi tìm kiếm bằng Chrome trên Android
+
+Đầu năm nay, Google đã thua trong một vụ kiện chống độc quyền ở Nga về việc hạn chế phần mềm trên các...
+Tin ICT -- Đừng bỏ lỡ --
+Thay v&#236; di chuyển ngang, chiếc drone n&#224;y c&#243; bay dọc tường y hệt một điệp vi&#234;n
+Thay vì di chuyển ngang, chiếc drone này có bay dọc tường y hệt một điệp viên
+
+Bạn chắc chắn sẽ bất ngờ khi thấy chiếc drone đặc biệt này có khả năng di chuyển theo phương dọc y hệt...
+Khám phá -- Đừng bỏ lỡ --
+Lộ ảnh thực tế Google Pixel 2, sẽ c&#243; t&#249;y chọn m&#224;u mới, ngo&#224;i ra th&#236; chẳng c&#243; g&#236; đặc biệt
+Lộ ảnh thực tế Google Pixel 2, sẽ có tùy chọn màu mới, ngoài ra thì chẳng có gì đặc biệt
+
+Theo nguồn tin rò rỉ thì đây là nguyên mẫu thử nghiệm của Google Pixel 2 và nó thừa hưởng nhiều nét...
+Mobile -- Đừng bỏ lỡ --
+VIDEO
+
+Video tự động phát
+
+Rùng mình với pha điều khiển máy bay tưởng như đâm sầm xuống nước
+Rùng mình với pha điều khiển máy bay tưởng...
+Thử nghiệm an toàn Tesla Model X
+Thử nghiệm an toàn Tesla Model X
+Đánh giá chi tiết DJI Spark
+Đánh giá chi tiết DJI Spark
+Bí mật ẩn sau vẻ hào nhoáng của Surface Studio: điểm mạnh từ trong ra tới ngoài, từ màn hình cho tới các khớp nối tại chân đế.
+Bí mật ẩn sau vẻ hào nhoáng của Surface...
+Xem Sony a9 trổ tài bắt nét nhanh không tưởng
+Xem Sony a9 trổ tài bắt nét nhanh không...
+Andrew Huang sáng tác nhạc Techno bằng Fidget spinner/ Fidget Cube
+Andrew Huang sáng tác nhạc Techno bằng...
+Kích cỡ của Drogon to tới vậy, liệu có chút "ma thuật" nào đó giúp sức cho nó?
+Kích cỡ của Drogon to tới vậy, liệu có chút...
+Xem con robot Mỹ biểu trưng sức mạnh, chuẩn bị cho cuộc quyết đấu với robot Nhận Bản.
+Xem con robot Mỹ biểu trưng sức mạnh, chuẩn...
+Xem video quay từ X27, cảnh đêm mà rõ như ban ngày
+Xem video quay từ X27, cảnh đêm mà rõ như...
+Quy trình kiểm tra chất lượng của Samsung
+Quy trình kiểm tra chất lượng của Samsung...
+Độ đồng hồ casio
+Độ đồng hồ casio
+Nguồn gốc của biểu tượng nút nguồn mà bạn bấm hàng ngày.
+Nguồn gốc của biểu tượng nút nguồn mà bạn...
+Xem Sony a9 chụp ở tốc độ 20fps
+Xem Sony a9 chụp ở tốc độ 20fps
+Video quảng cáo của Mouse Computer Nhật Bản khiến bạn không thể rời mắt từ đầu đến cuối
+Video quảng cáo của Mouse Computer Nhật Bản...
+Trên tay Surface Studio đầu tiên ở Việt Nam: to, đẹp, màn hình cực kỳ ấn tượng, Surface Dial xuất sắc, giá 77 triệu
+Trên tay Surface Studio đầu tiên ở Việt Nam:...
+Hy sinh chiếc iPhone 7 Plus Jet Black để có iPhone 7 Plus PRODUCT (RED) mặt trước màu đen
+Hy sinh chiếc iPhone 7 Plus Jet Black để...
+15 chiếc Hilux đồ chơi kéo 1 chiếc Hilux thật
+15 chiếc Hilux đồ chơi kéo 1 chiếc Hilux...
+Đoạn video hai thanh gỗ ghép vào nhau hoàn hảo được hơn triêu view trên YouTube
+Đoạn video hai thanh gỗ ghép vào nhau hoàn...
+Xem hacker nổi tiếng biểu diễn hack bất kì ai trên phố, ai đi ngang qua là bị hack, y hệt như trong game Watch_Dogs
+Xem hacker nổi tiếng biểu diễn hack bất kì...
+Mở hộp và trên tay chiếc Nokia 3310 đã 17 tuổi: Tấm vé quay trở về tuổi thơ
+Mở hộp và trên tay chiếc Nokia 3310 đã 17...
+2 tháng trước | Theo Trí Thức Trẻ
+Hãng phim Disney sẽ ra mắt dịch vụ truyền hình trực tuyến của riêng mình và đối đầu với Netflix
+Hãng phim Disney sẽ ra mắt dịch vụ truyền hình trực tuyến của riêng mình và đối đầu với Netflix
+
+Internet - 8 giờ trước
+Disney sẽ ra mắt nền tảng giống như Netflix, với nội dung của riêng mình.
+Hacker đòi HBO lượng tiền chuộc 7 triệu USD, nếu không sẽ đưa thêm nội dung Game of Thrones cùng thông tin nhạy cảm lên mạng
+Hacker đòi HBO lượng tiền chuộc 7 triệu USD, nếu không sẽ đưa thêm nội dung Game of Thrones cùng thông tin nhạy cảm lên mạng
+
+Tin ICT - 8 giờ trước
+Liệu nhà đài có chịu thỏa hiệp với kẻ xấu?
+Lỗ nặng, Uber quyết định dừng dịch vụ cho thuê xe tại Mỹ chỉ sau 2 năm hoạt động
+Lỗ nặng, Uber quyết định dừng dịch vụ cho thuê xe tại Mỹ chỉ sau 2 năm hoạt động
+
+Tin ICT - 8 giờ trước
+Uber đã quyết định thu gọn và tiến tới ngừng hẳn dịch vụ cho thuê xe tại Mỹ sau khi công ty này phát...
+Intel bất ngờ công bố lịch ra mắt Coffee Lake vào 21/8, biến Kaby Lake trở thành thế hệ CPU có vòng đời ngắn nhất
+Intel bất ngờ công bố lịch ra mắt Coffee Lake vào 21/8, biến Kaby Lake trở thành thế hệ CPU có vòng đời ngắn nhất
+
+Máy tính - 8 giờ trước
+Ngoài ra các thông tin về i3-8100 và i3-8350K cũng bị rò rỉ ngay khi thông tin về ngày ra mắt xuất...
+Người Việt với hàng công nghệ Việt: Như nhà tuyển dụng nóng tính với gã sinh viên không biết tự lượng sức mình
+Người Việt với hàng công nghệ Việt: Như nhà tuyển dụng nóng tính với gã sinh viên không biết tự lượng sức mình
+
+Tản mạn - 8 giờ trước
+Sự thật là ngành công nghệ cao của chúng ta đi sau Trung Quốc hàng chục năm chứ chưa nhắc tới Hàn Quốc...
