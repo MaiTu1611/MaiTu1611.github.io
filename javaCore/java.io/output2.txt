@@ -1,0 +1,318 @@
+ï»¿Day la file test doc ghi file
+GAMEK
+KENH14
+CAFEBIZ
+MOBILE
+TIN ICT
+INTERNET
+KHÃM PHÃ
+
+VIDEO
+
+TRANG CHá»¦ âº MÃY TÃNH
+Intel Core i7 vÃ  i5 tháº¿ há» 8 lá» diá»n ngay sau khi Intel cÃ´ng bá» ngÃ y ra máº¯t Coffee Lake, gieo thÃªm sáº§u cho ngÆ°á»i dÃ¹ng Kaby Lake
+MASTER DÃI , THEO TRÃ THá»¨C TRáºº 3 GIá» TRÆ¯á»C
+BÃ¬nh luáº­n 0Chia sáº»
+Intel áº¥n Äá»nh ngÃ y bÃ¡n ra CPU 18 nhÃ¢n Core i9-7980XE: 25/9 lÃªn ká», giÃ¡ chá» 2000 USD
+Intel Äi nÆ°á»c cá» khÃ³ hiá»u, khÃ´ng cho Coffee Lake tÆ°Æ¡ng thÃ­ch ngÆ°á»£c vá»i bo máº¡ch chá»§ cá»§a Kaby Lake dÃ¹ cÃ¹ng tiáº¿n trÃ¬nh 14nm
+ChÃªnh lá»ch tá»i 2 nhÃ¢n xá»­ lÃ½ lÃ  Äiá»u mÃ  khÃ´ng pháº£i ai cÅ©ng cÃ³ thá» nuá»t trÃ´i.
+
+HÃ´m qua, Intel ÄÃ£ cÃ´ng bá» ngÃ y trÃ¬nh lÃ ng Coffee Lake vÃ o 21/8. Gáº§n nhÆ° ngay láº­p tá»©c, thÃ´ng tin vá» cÃ¡c mÃ£ CPU Core tháº¿ há» 8 dÃ nh cho mÃ¡y bÃ n ÄÃ£ bá» rÃ² rá» trÃªn má»t diá»n ÄÃ n cÃ´ng nghá» cá»§a Trung Quá»c. Khá»i Äáº§u lÃ  i3-8100 vÃ  i3-8350K vá»i 4 nhÃ¢n 4 luá»ng Äá»§ Äá» khiáº¿n nhá»¯ng ngÆ°á»i dÃ¹ng i3 Kaby Lake khÃ³c háº­n.
+
+
+
+NhÆ° Äá» xÃ¡t thÃªm muá»i vÃ o váº¿t thÆ°Æ¡ng, thÃ´ng tin vá» i7-8700K vÃ  i7-8700 cÅ©ng xuáº¥t hiá»n ngay sau ÄÃ³. Vá»i sá» nhÃ¢n/luá»ng gáº¥p rÆ°á»¡i ngÆ°á»i tiá»n nhiá»m, lÃªn tá»i 6 nhÃ¢n 12 luá»ng, hiá»u nÄng cá»§a cáº·p ÄÃ´i i7 nÃ y ÄÆ°á»£c dá»± ÄoÃ¡n sáº½ máº¡nh hÆ¡n i7-7700K vÃ  i7-7700 khoáº£ng 50%. ÄÃ¢y sáº½ ÄÃ¡nh dáº¥u má»t bÆ°á»c nháº£y vá»t vá» hiá»u nÄng bá»i trÆ°á»c nay, sá»± chÃªnh lá»ch giá»¯a 2 tháº¿ há» CPU liá»n ká» dá»±a trÃªn cÃ¹ng 1 tiáº¿n trÃ¬nh cá»§a Intel chá» cao nháº¥t lÃ  25%.
+
+
+
+BÆ°á»c nháº£y vá»t vá» hiá»u nÄng cÅ©ng nhÆ° sá» nhÃ¢n/luá»ng nÃ y há»©a háº¹n sáº½ táº¡o tiá»n Äá» cho cÃ¡c tháº¿ há» CPU sau cá»§a Intel nhÆ° Cannon Lake. Háº³n Intel cÅ©ng cÃ³ cÃ¡i lÃ­ cá»§a há» khi táº­n dá»¥ng tiáº¿n trÃ¬nh 14nm thÃªm má»t láº§n ná»¯a Äá» thá»­ nghiá»m thiáº¿t káº¿ CPU 6 nhÃ¢n trÃªn socket LGA 115x, Äáº·c biá»t lÃ  khi bá» máº·t tiáº¿p xÃºc cá»§a 2 tháº¿ há» CPU Kaby Lake vÃ  Coffee Lake gáº§n nhÆ° khÃ´ng cÃ³ khÃ¡c biá»t. Sáº½ cháº³ng cÃ³ gÃ¬ lÃ  quÃ¡ láº¡c quan khi trÃ´ng Äá»£i Core i3 tháº¿ há» thá»© 9 sáº½ cÃ³ tá»i 6 dá»±a trÃªn tiáº¿n trÃ¬nh 10nm.
+
+
+
+CÅ©ng chá» vÃ i giá» sau khi thÃ´ng tin vá» i7-8700K vÃ  i7-8700 bá» lá», i5-8600K vÃ  i5-8400 láº­p tá»©c bá» âlá» hÃ ngâ. Vá»i 6 nhÃ¢n 6 luá»ng á» xung nhá»p gá»c 3.6 GHz, chÃºng ta cháº¯c cháº¯n sáº½ chá»©ng kiáº¿n má»t bÆ°á»c nháº£y vá»t vá» hiá»u nÄng. Äáº·c biá»t, vá»i sá» nhÃ¢n nÃ y, giá» ÄÃ¢y Core i5 cÃ³ thá» cáº¡nh tranh sÃ²ng pháº³ng vá»i Ryzen 5 cao cáº¥p á» hiá»u nÄng nhá» chá» sá» IPC cao.
+
+Tuy nhiÃªn, vá»i yáº¿u Äiá»m thiáº¿u há»¥t cÃ´ng nghá» HyperThreading, cÃ¡c CPU i5 Coffee Lake cháº¯c cháº¯n sáº½ báº¥t lá»£i nhÆ°ng vá»i game thÃ¬ quáº£ thá»±c Ryzen 5 khÃ´ng cÃ³ cá»­a cáº¡nh tranh. Cháº¯c cháº¯n, vá»i thÃ´ng sá» nhÃ¢n/luá»ng vÃ  xung nhá»p nÃ y, Core i5 Coffee Lake sáº½ lÃ  lá»±a chá»n hÃ ng Äáº§u cho cÃ¡c dÃ n mÃ¡y chÆ¡i game táº§m trung, 20 Äáº¿n 30 triá»u Äá»ng.
+
+Intel báº¥t ngá» cÃ´ng bá» lá»ch ra máº¯t Coffee Lake vÃ o 21/8, biáº¿n Kaby Lake trá» thÃ nh tháº¿ há» CPU cÃ³ vÃ²ng Äá»i ngáº¯n nháº¥t
+Chia sáº»
+Báº¥m Äá» thiáº¿t láº­p
+Tags:
+chip xá»­ lÃ½
+intel
+mÃ¡y chÆ¡i game
+intel core i7
+
+
+
+
+Tuyá»t chiÃªu nÃ³i giá»i tiáº¿ng Anh
+br1.topicanative.edu.vn
+Tuyá»t chiÃªu nÃ³i giá»i tiáº¿ng AnhLuyá»n nÃ³i hÃ ng ngÃ y vá»i tháº§y TÃ¢y khÃ´ng cáº§n pháº£i Äáº¿n lá»p, cÃ³ lá» trÃ¬nh há»c táº­p riÃªng
+XÃ³a bá» sá»£ hÃ£i khi nÃ³i tiáº¿ng Anh
+anhngutructuyen.native.edu.vn
+XÃ³a bá» sá»£ hÃ£i khi nÃ³i tiáº¿ng AnhGiao tiáº¿p tiáº¿ng Anh- ná»i sá»£ hÃ£i cá»§a nhiá»u ngÆ°á»i. Äá» tá»± tin giao tiáº¿p nÃªn há»c vá»i tháº§y TÃ¢y
+45 phÃºt má»i ngÃ y Äá» giá»i tiáº¿ng Anh
+anhngutructuyen.native.edu.vn
+45 phÃºt má»i ngÃ y Äá» giá»i tiáº¿ng AnhChá» cáº§n bá» ra 45 phÃºt/ ngÃ y luyá»n nÃ³i vá»i giÃ¡o viÃªn báº£n ngá»¯ kháº£ nÄng giao tiáº¿p tÄng nhanh
+Äáº©y lÃ¹i ná»i sá»£ tiáº¿ng Anh vá»i 45' online
+br1.topicanative.edu.vn
+Äáº©y lÃ¹i ná»i sá»£ tiáº¿ng Anh vá»i 45' onlineGiÃ¡o viÃªn hÆ°á»ng dáº«n luÃ´n bÃ¡m sÃ¡t vÃ  há» trá»£ tá»«ng há»c viÃªn, ca há»c thá»a thÃ­ch tá»« 8h-24h
+BÃ¬nh luáº­n
+Tin cÃ¹ng chuyÃªn má»¥c Xem theo ngÃ y
+NgÃ y
+ThÃ¡ng
+NÄm
+ XEM
+ Intel báº¥t ngá» cÃ´ng bá» lá»ch ra máº¯t Coffee Lake vÃ o 21/8, biáº¿n Kaby Lake trá» thÃ nh tháº¿ há» CPU cÃ³ vÃ²ng Äá»i ngáº¯n nháº¥t
+Intel báº¥t ngá» cÃ´ng bá» lá»ch ra máº¯t Coffee Lake vÃ o 21/8, biáº¿n Kaby Lake trá» thÃ nh tháº¿ há» CPU cÃ³ vÃ²ng Äá»i ngáº¯n nháº¥t
+
+NgoÃ i ra cÃ¡c thÃ´ng tin vá» i3-8100 vÃ  i3-8350K cÅ©ng bá» rÃ² rá» ngay khi thÃ´ng tin vá» ngÃ y ra máº¯t xuáº¥t hiá»n.
+Intel áº¥n Äá»nh ngÃ y bÃ¡n ra CPU 18 nhÃ¢n Core i9-7980XE: 25/9 lÃªn ká», giÃ¡ chá» 2000 USD
+Intel áº¥n Äá»nh ngÃ y bÃ¡n ra CPU 18 nhÃ¢n Core i9-7980XE: 25/9 lÃªn ká», giÃ¡ chá» 2000 USD
+
+Ãt nháº¥t thÃ¬ ngÃ´i vÆ°Æ¡ng vá» hiá»u nÄng cá»§a Intel váº«n chÆ°a thá» bá» lung lay, cÃ³ Äiá»u giÃ¡ thÃ¬... Xuáº¥t hiá»n Äiá»m benchmark cá»§a AMD Ryzen Threadripper: khÃ´ng thá» áº¥n tÆ°á»£ng hÆ¡n
+Xuáº¥t hiá»n Äiá»m benchmark cá»§a AMD Ryzen Threadripper: khÃ´ng thá»...
+1 ngÃ y trÆ°á»c
+AMD Radeon RX Vega sáº½ cÃ³ báº£n x2: cá»±c máº¡nh, táº£n nhiá»t nÆ°á»c nhÆ°ng cÅ©ng cá»±c kÃ¬ tá»n Äiá»n
+AMD Radeon RX Vega sáº½ cÃ³ báº£n x2: cá»±c máº¡nh, táº£n nhiá»t nÆ°á»c nhÆ°ng...
+1 ngÃ y trÆ°á»c
+View Sonic VA2407h: Äá»«ng coi thÆ°á»ng mÃ n hÃ¬nh chÆ¡i game á» phÃ¢n khÃºc tháº¥p
+View Sonic VA2407h: Äá»«ng coi thÆ°á»ng mÃ n hÃ¬nh chÆ¡i game á» phÃ¢n...
+1 ngÃ y trÆ°á»c
+ÄÃ¡nh giÃ¡ nhanh SSD Plextor M8SeY: Sá»©c máº¡nh khÃ´ng ngá» cá»§a SSD mÃ  cáº¯m cá»ng Card Äá» há»a
+ÄÃ¡nh giÃ¡ nhanh SSD Plextor M8SeY: Sá»©c máº¡nh khÃ´ng ngá» cá»§a SSD mÃ ...
+2 ngÃ y trÆ°á»c
+TIN Ná»I Báº¬T
+Intel Core i7 vÃ  i5 tháº¿ há» 8 lá» diá»n ngay sau khi Intel cÃ´ng bá» ngÃ y ra máº¯t Coffee Lake, gieo thÃªm sáº§u cho ngÆ°á»i dÃ¹ng Kaby Lake
+Intel Core i7 vÃ  i5 tháº¿ há» 8 lá» diá»n ngay sau khi Intel cÃ´ng bá» ngÃ y ra máº¯t Coffee Lake, gieo thÃªm sáº§u cho ngÆ°á»i dÃ¹ng Kaby Lake
+Ngay giá»¯a tÃ¢m Äiá»m BPhone 2017, má»t nhÃ  sáº£n xuáº¥t smartphone Viá»t tuyÃªn bá» sáº½ vÃ o thá» trÆ°á»ng trong thÃ¡ng nÃ y, má»¥c tiÃªu bÃ¡n 20 nghÃ¬n mÃ¡y/thÃ¡ng
+Ngay giá»¯a tÃ¢m Äiá»m BPhone 2017, má»t nhÃ  sáº£n xuáº¥t smartphone Viá»t tuyÃªn bá» sáº½ vÃ o thá» trÆ°á»ng trong thÃ¡ng nÃ y, má»¥c tiÃªu bÃ¡n 20 nghÃ¬n mÃ¡y/thÃ¡ng
+Chiáº¿c Äiá»n thoáº¡i Trung Quá»c khÃ´ng viá»n nÃ y chÃ­nh lÃ  tÆ°Æ¡ng lai cá»§a smartphone?
+Chiáº¿c Äiá»n thoáº¡i Trung Quá»c khÃ´ng viá»n nÃ y chÃ­nh lÃ  tÆ°Æ¡ng lai cá»§a smartphone?
+PhÃ³ chá»§ tá»ch BKAV: Bphone 2017 Gold sáº½ chá» bÃ¡n táº¡i Dubai, ngÆ°á»i Viá»t muá»n mua thÃ¬ pháº£i mua hÃ ng xÃ¡ch tay
+PhÃ³ chá»§ tá»ch BKAV: Bphone 2017 Gold sáº½ chá» bÃ¡n táº¡i Dubai, ngÆ°á»i Viá»t muá»n mua thÃ¬ pháº£i mua hÃ ng xÃ¡ch tay
+Vá»«a biá»u diá»n ngon lÃ nh xong, chÃº robot tá»i nghiá»p trÆ°á»£t chÃ¢n ngÃ£ sáº¥p máº·t
+Vá»«a biá»u diá»n ngon lÃ nh xong, chÃº robot tá»i nghiá»p trÆ°á»£t chÃ¢n ngÃ£ sáº¥p máº·t
+TIN Má»I
+Tá»± táº¡o icon á»©ng dá»¥ng mang Äáº­m cháº¥t cÃ¡ nhÃ¢n cho iPhone mÃ  khÃ´ng cáº§n Jailbreak
+Tá»± táº¡o icon á»©ng dá»¥ng mang Äáº­m cháº¥t cÃ¡ nhÃ¢n cho iPhone mÃ  khÃ´ng cáº§n Jailbreak
+
+Thá»§ thuáº­t - 22 phÃºt trÆ°á»c
+KhÃ´ng cáº§n pháº£i tráº£i qua viá»c Jailbreak máº¥t báº£o hÃ nh má»i cÃ³ thá» tá»± táº¡o cho mÃ¬nh má»t icon á»©ng dá»¥ng trÃªn...
+KhÃ´ng cháº¥t: Bphone 2017 dÃ¹ng kÃ­nh Gorilla Glass 3 tá»« nÄm 2013
+KhÃ´ng cháº¥t: Bphone 2017 dÃ¹ng kÃ­nh Gorilla Glass 3 tá»« nÄm 2013
+
+Mobile - 1 giá» trÆ°á»c
+BKAV nÃ³i ráº±ng mÃ n hÃ¬nh cá»§a Bphone 2017 "cháº¥t tá»«ng chi tiáº¿t", tuy nhiÃªn tiáº¿c ráº±ng lá»p kÃ­nh báº£o vá» cho...
+Samsung ÄÃ¡nh báº¡i Apple vá»i thá» pháº§n cao nháº¥t táº¡i Má»¹, tuy nhiÃªn Galaxy S8 khÃ´ng náº±m trong top 3
+Samsung ÄÃ¡nh báº¡i Apple vá»i thá» pháº§n cao nháº¥t táº¡i Má»¹, tuy nhiÃªn Galaxy S8 khÃ´ng náº±m trong top 3
+
+Mobile - 2 giá» trÆ°á»c
+Samsung trá» thÃ nh hÃ£ng smartphone cÃ³ thá» pháº§n lá»n nháº¥t táº¡i thá» trÆ°á»ng Má»¹.
+Intel Core i7 vÃ  i5 tháº¿ há» 8 lá» diá»n ngay sau khi Intel cÃ´ng bá» ngÃ y ra máº¯t Coffee Lake, gieo thÃªm sáº§u cho ngÆ°á»i dÃ¹ng Kaby Lake
+Intel Core i7 vÃ  i5 tháº¿ há» 8 lá» diá»n ngay sau khi Intel cÃ´ng bá» ngÃ y ra máº¯t Coffee Lake, gieo thÃªm sáº§u cho ngÆ°á»i dÃ¹ng Kaby Lake
+
+MÃ¡y tÃ­nh - 3 giá» trÆ°á»c
+ChÃªnh lá»ch tá»i 2 nhÃ¢n xá»­ lÃ½ lÃ  Äiá»u mÃ  khÃ´ng pháº£i ai cÅ©ng cÃ³ thá» nuá»t trÃ´i.
+Cáº­n cáº£nh "nghÄ©a Äá»a TV" bao gá»m 56.000 táº¥n TV cÅ© trong kho, cÃ´ng ty tÃ¡i cháº¿ bá» pháº¡t 14 triá»u USD Äá» dá»n chá» nÃ y
+Cáº­n cáº£nh "nghÄ©a Äá»a TV" bao gá»m 56.000 táº¥n TV cÅ© trong kho, cÃ´ng ty tÃ¡i cháº¿ bá» pháº¡t 14 triá»u USD Äá» dá»n chá» nÃ y
+
+KhÃ¡m phÃ¡ - 3 giá» trÆ°á»c
+Má»t nghÄ©a Äá»a TV khÃ´ng hÆ¡n khÃ´ng kÃ©m.
+ÄÃNG CHÃ Ã
+Hacker 22 tuá»i Marcus Hutchins: Tá»« ngÆ°á»i hÃ¹ng cá»©u cáº£ tháº¿ giá»i trÆ°á»c WannaCry trá» thÃ nh káº» tá»i pháº¡m sa ngÃ£
+Hacker 22 tuá»i Marcus Hutchins: Tá»« ngÆ°á»i hÃ¹ng cá»©u cáº£ tháº¿ giá»i trÆ°á»c WannaCry trá» thÃ nh káº» tá»i pháº¡m sa ngÃ£
+20k 626
+ÄÃ­ch thÃ¢n cá»±u phÃ³ chá»§ tá»ch cá»§a Google khuyÃªn ngÆ°á»i dÃ¹ng bá» Android, chá»n iPhone náº¿u muá»n chá»¥p áº£nh Äáº¹p
+ÄÃ­ch thÃ¢n cá»±u phÃ³ chá»§ tá»ch cá»§a Google khuyÃªn ngÆ°á»i dÃ¹ng bá» Android, chá»n iPhone náº¿u muá»n chá»¥p áº£nh Äáº¹p
+47k 5015
+Táº¡m biá»t iPhone: Äiá»n thoáº¡i Android 180 ÄÃ´ cá»§a tÃ´i ÄÃ£ Äá»§ tá»t rá»i
+Táº¡m biá»t iPhone: Äiá»n thoáº¡i Android 180 ÄÃ´ cá»§a tÃ´i ÄÃ£ Äá»§ tá»t rá»i
+38k 1531
+ÄÃ¢y lÃ  cÃ¡ch ngÆ°á»i thÃ nh cÃ´ng Äá»i phÃ³ vá»i nhá»¯ng káº» khÃ³ chá»u trong Äá»i
+ÄÃ¢y lÃ  cÃ¡ch ngÆ°á»i thÃ nh cÃ´ng Äá»i phÃ³ vá»i nhá»¯ng káº» khÃ³ chá»u trong Äá»i
+
+Sá»ng - 3 giá» trÆ°á»c
+Trong cÃ´ng viá»c, cuá»c sá»ng, tÃ¬nh cáº£m... cá»§a má»i ngÆ°á»i Äá»u cÃ³ nhá»¯ng káº» khÃ³ chá»u bao quanh, thá»© nÄng...
+CEO Xiaomi Äang sá»­ dá»¥ng má»t chiáº¿c smartphone bÃ­ máº­t cÃ³ tá»· lá» mÃ n hÃ¬nh 18:9, ráº¥t cÃ³ thá» lÃ  Mi Mix 2
+CEO Xiaomi Äang sá»­ dá»¥ng má»t chiáº¿c smartphone bÃ­ máº­t cÃ³ tá»· lá» mÃ n hÃ¬nh 18:9, ráº¥t cÃ³ thá» lÃ  Mi Mix 2
+
+Mobile - 3 giá» trÆ°á»c
+Mi Mix 2 ÄÆ°á»£c ká»³ vá»ng sáº½ cÃ³ thiáº¿t káº¿ Äá»t phÃ¡ hÆ¡n so vá»i ngÆ°á»i tiá»n nhiá»m cá»§a mÃ¬nh.
+PhÃ³ CT BKAV giáº£i thÃ­ch AI camera lÃ m ÄÆ°á»£c gÃ¬: vá»«a cháº¡y vá»«a chá»¥p cÅ©ng khÃ´ng bá» nhÃ²e
+PhÃ³ CT BKAV giáº£i thÃ­ch AI camera lÃ m ÄÆ°á»£c gÃ¬: vá»«a cháº¡y vá»«a chá»¥p cÅ©ng khÃ´ng bá» nhÃ²e
+
+Mobile - 3 giá» trÆ°á»c
+Camera trÃªn cÃ¡c Smartphone hiá»n nay lÃ  chi tiáº¿t ÄÆ°á»£c ráº¥t nhiá»u ngÆ°á»i quan tÃ¢m khi chá»n mua má»t chiáº¿c...
+TÃ´i Äang nhÃ¬n tháº¥y má»t BKAV chÃ¢n thÃ nh vÃ  khiÃªm tá»n hÆ¡n ráº¥t nhiá»u
+TÃ´i Äang nhÃ¬n tháº¥y má»t BKAV chÃ¢n thÃ nh vÃ  khiÃªm tá»n hÆ¡n ráº¥t nhiá»u
+
+Äiá»n thoáº¡i - 4 giá» trÆ°á»c
+Nhá»¯ng bÃ i há»c tá»« khÃ³ khÄn cá»§a BPhone 1 khÃ´ng chá» Äem Äáº¿n má»t chiáº¿c smartphone hoÃ n thiá»n hÆ¡n: Buá»i lá»...
+Apple bá» buá»c tá»i "khÃ´ng nghÄ© cho khÃ¡ch hÃ ng" vÃ¬ tá»« chá»i á»©ng dá»¥ng cháº·n cuá»c gá»i tiáº¿p thá»
+Apple bá» buá»c tá»i "khÃ´ng nghÄ© cho khÃ¡ch hÃ ng" vÃ¬ tá»« chá»i á»©ng dá»¥ng cháº·n cuá»c gá»i tiáº¿p thá»
+
+Tin ICT - 5 giá» trÆ°á»c
+Má»t á»©ng dá»¥ng tÃªn Do Not Disturb cÃ³ chá»©c nÄng cháº·n tin nháº¯n vÃ  cuá»c gá»i tá»« Äáº§u sá» tiáº¿p thá» táº¡i áº¤n Äá» ÄÃ£...
+Sá»± kiá»n: Magazine - nÆ¡i tá»¥ há»i cá»§a nhá»¯ng bÃ i viáº¿t ÄÃ¡ng Äá»c nháº¥t
+
+BÃ i Äáº·c biá»t: Lá»i nguyá»n hÃ²n lá»¥c báº£o Bahia
+BÃ i Äáº·c biá»t: Lá»i nguyá»n hÃ²n lá»¥c báº£o Bahia
+Nhá»¯ng cuá»c cÃ¡ch máº¡ng cÃ´ng nghá» phi thÆ°á»ng Äáº¿n tá»« gÃ£ bÃ¡n sÃ¡ch ÄÃ¡ng sá»£ nháº¥t tháº¿ giá»i
+Nhá»¯ng cuá»c cÃ¡ch máº¡ng cÃ´ng nghá» phi thÆ°á»ng Äáº¿n tá»« gÃ£ bÃ¡n sÃ¡ch ÄÃ¡ng...
+Ká»· niá»m 10 nÄm lá»ch sá»­: Chuyá»n chÆ°a bao giá» ká» vá» nguá»n gá»c bÃ­ máº­t cá»§a chiáº¿c iPhone
+Ká»· niá»m 10 nÄm lá»ch sá»­: Chuyá»n chÆ°a bao giá» ká» vá» nguá»n gá»c bÃ­ máº­t...
+TÃ i nÄng phi thÆ°á»ng cá»§a ngÆ°á»i lÃ£nh Äáº¡o ÄÃ£ giÃºp NVIDIA láº­t Äá» Intel, Äá» Äi Äáº§u vá» trÃ­ tuá» nhÃ¢n táº¡o nhÆ° tháº¿ nÃ o?
+TÃ i nÄng phi thÆ°á»ng cá»§a ngÆ°á»i lÃ£nh Äáº¡o ÄÃ£ giÃºp NVIDIA láº­t Äá» Intel,...
+Nhá»¯ng cÃ¢u chuyá»n chÆ°a ká» vá» cuá»c chiáº¿n giá»¯a iPhone vÃ  2 Äá»i CEO báº¥t lá»±c cá»§a Nokia
+Nhá»¯ng cÃ¢u chuyá»n chÆ°a ká» vá» cuá»c chiáº¿n giá»¯a iPhone vÃ  2 Äá»i CEO báº¥t...
+Gáº·p gá»¡ VÅ© Duy Thá»©c, ngÆ°á»i Viá»t thá»i há»n cho robot ngay táº¡i Thung lÅ©ng Silicon
+Gáº·p gá»¡ VÅ© Duy Thá»©c, ngÆ°á»i Viá»t thá»i há»n cho robot ngay táº¡i Thung...
+ChÃ¢n dung Satya Nadella, vá» thuyá»n trÆ°á»ng dáº«n Äáº§u cho cuá»c há»i sinh vÄ© Äáº¡i cá»§a Microsoft
+ChÃ¢n dung Satya Nadella, vá» thuyá»n trÆ°á»ng dáº«n Äáº§u cho cuá»c há»i sinh...
+Sony ÄÃ£ trÆ°á»£t dÃ i tá»« vá» tháº¿ káº» thá»ng trá» toÃ n cáº§u Äáº¿n thá»±c táº¡i má» nháº¡t nhÆ° tháº¿ nÃ o?
+Sony ÄÃ£ trÆ°á»£t dÃ i tá»« vá» tháº¿ káº» thá»ng trá» toÃ n cáº§u Äáº¿n thá»±c táº¡i má»...
+ÄÃ¡nh giÃ¡ chi tiáº¿t Samsung Galaxy S8: MÃ n hÃ¬nh VÃ´ cá»±c - Tiá»m nÄng VÃ´ táº­n
+ÄÃ¡nh giÃ¡ chi tiáº¿t Samsung Galaxy S8: MÃ n hÃ¬nh VÃ´ cá»±c - Tiá»m nÄng VÃ´...
+AMD - HÃ nh trÃ¬nh tá»« káº» lÃ m thuÃª Äáº¿n khoáº£nh kháº¯c ÄÃ¡nh báº¡i Intel trong cuá»c chiáº¿n 64-bit
+AMD - HÃ nh trÃ¬nh tá»« káº» lÃ m thuÃª Äáº¿n khoáº£nh kháº¯c ÄÃ¡nh báº¡i Intel...
+[AÌnh] NÃªÌu giÃ¢Ìc mÆ¡ coÌ thÃ¢Ì£t thiÌ cuÌng chiÌ ÄeÌ£p ÄÆ°Æ¡Ì£c ÄÃªÌn mÆ°Ìc naÌy maÌ thÃ´i
+[AÌnh] NÃªÌu giÃ¢Ìc mÆ¡ coÌ thÃ¢Ì£t thiÌ cuÌng chiÌ ÄeÌ£p ÄÆ°Æ¡Ì£c ÄÃªÌn mÆ°Ìc naÌy maÌ thÃ´i
+
+Sá»ng - 5 giá» trÆ°á»c
+KhÃ´ng chiÌ pha trÃ´Ì£n nhÆ°Ìng bÆ°Ìc aÌnh vÆ¡Ìi nhau, nghÃªÌ£ siÌ HÃ¼seyin Åahin coÌn khiÃªÌn caÌ thÃªÌ giÆ¡Ìi...
+Chiáº¿c Äiá»n thoáº¡i Trung Quá»c khÃ´ng viá»n nÃ y chÃ­nh lÃ  tÆ°Æ¡ng lai cá»§a smartphone?
+Chiáº¿c Äiá»n thoáº¡i Trung Quá»c khÃ´ng viá»n nÃ y chÃ­nh lÃ  tÆ°Æ¡ng lai cá»§a smartphone?
+
+Mobile - 5 giá» trÆ°á»c
+Sharp, hÃ£ng Äiá»n tá»­ Nháº­t Báº£n bá» Foxconn Trung Quá»c thÃ¢u tÃ³m nÄm ngoÃ¡i, vá»«a cÃ´ng bá» smartphone má»i nháº¥t...
+CÃ¹ng ngáº¯m nhÃ¬n váº» bá» ngoÃ i cá»§a siÃªu nhÃ  mÃ¡y khá»ng lá» Tesla Gigafactory rá»ng tá»i hÆ¡n 5 triá»u mÃ©t vuÃ´ng
+CÃ¹ng ngáº¯m nhÃ¬n váº» bá» ngoÃ i cá»§a siÃªu nhÃ  mÃ¡y khá»ng lá» Tesla Gigafactory rá»ng tá»i hÆ¡n 5 triá»u mÃ©t vuÃ´ng
+
+Sá»ng - 6 giá» trÆ°á»c
+SiÃªu nhÃ  mÃ¡y Gigafactory má»i chá» lÃ  dá»± Ã¡n Äáº§u tiÃªn náº±m trong káº¿ hoáº¡ch xÃ¢y dá»±ng chuá»i cÃ¡c nhÃ  mÃ¡y táº¡i...
+Microsoft: "NgÃ y mÃ  cÃ¡c game thá»§ PS4, Xbox One vÃ  PC vá» chung má»t nhÃ  sáº½ khÃ´ng cÃ²n xa"
+Microsoft: "NgÃ y mÃ  cÃ¡c game thá»§ PS4, Xbox One vÃ  PC vá» chung má»t nhÃ  sáº½ khÃ´ng cÃ²n xa"
+
+Tin ICT - 6 giá» trÆ°á»c
+Náº¿u nhÃ¬n nháº­n má»t cÃ¡ch láº¡c quan thÃ¬ ÄÃ¢y sáº½ lÃ  má»t hÆ°á»ng Äi má»i cho ná»n cÃ´ng nghiá»p video game. Tuy...
+Bphone 2017 ÄÃ£ chá»n sai thá» trÆ°á»ng rá»i, hÃ£y báº¯t Äáº§u tá»« thá» trÆ°á»ng ngÃ¡ch!
+Bphone 2017 ÄÃ£ chá»n sai thá» trÆ°á»ng rá»i, hÃ£y báº¯t Äáº§u tá»« thá» trÆ°á»ng ngÃ¡ch!
+
+Mobile - 7 giá» trÆ°á»c
+Má»i ÄÃ¢y, Bkav ÄÃ£ cho ra máº¯t chiáº¿c Äiá»n thoáº¡i Bphone 2017 vá»i thÃ´ng Äiá»p xuyÃªn suá»t lÃ  CHáº¤T. Tuy nhiÃªn,...
+KhÃ´ng cÃ  phÃª, khÃ´ng trÃ ... chá» uá»ng nÆ°á»c lá»c trong 1 thÃ¡ng thÃ¬ Äiá»u gÃ¬ sáº½ xáº£y ra vá»i cÆ¡ thá» báº¡n?
+KhÃ´ng cÃ  phÃª, khÃ´ng trÃ ... chá» uá»ng nÆ°á»c lá»c trong 1 thÃ¡ng thÃ¬ Äiá»u gÃ¬ sáº½ xáº£y ra vá»i cÆ¡ thá» báº¡n?
+
+Báº¡n khÃ´ng chá» tiáº¿t kiá»m ÄÆ°á»£c má»t khoáº£n tiá»n kha khÃ¡.
+Sá»ng -- CÅ© mÃ  hay --
+40 trang há»c online dáº¡y báº¡n má»i thá»© trÃªn Äá»i
+40 trang há»c online dáº¡y báº¡n má»i thá»© trÃªn Äá»i
+
+Nhá»¯ng website vÃ  á»©ng dá»¥ng dÆ°á»i ÄÃ¢y cÃ³ thá» cung cáº¥p cho báº¡n lÆ°á»£ng kiáº¿n thá»©c...
+KhÃ¡m phÃ¡ -- CÅ© mÃ  hay --
+KyÌ thuÃ¢Ì£t naÌy cuÌa ngÆ°Æ¡Ìi NhÃ¢Ì£t seÌ giuÌp baÌ£n giaÌm mÆ¡Ì buÌ£ng cÆ°Ì£c kyÌ hiÃªÌ£u quaÌ maÌ chiÌ cÃ¢Ìn 2 phuÌt mÃ´Ìi ngaÌy
+KyÌ thuÃ¢Ì£t naÌy cuÌa ngÆ°Æ¡Ìi NhÃ¢Ì£t seÌ giuÌp baÌ£n giaÌm mÆ¡Ì buÌ£ng cÆ°Ì£c kyÌ hiÃªÌ£u quaÌ maÌ chiÌ cÃ¢Ìn 2 phuÌt mÃ´Ìi ngaÌy
+
+Sá»ng - 7 giá» trÆ°á»c
+GÃ¢Ìn ÄÃ¢y, diÃªÌn viÃªn NhÃ¢Ì£t BaÌn Miki Ryosuke ÄaÌ phaÌt hiÃªÌ£n ra mÃ´Ì£t baÌi tÃ¢Ì£p cÆ°Ì£c kyÌ thuÌ viÌ£ giuÌp...
+HÃ³a ra máº·c Äáº¹p cÃ³ thá» khiáº¿n ÄÃ n Ã´ng "quyá»n lá»±c vÃ  thÃ nh cÃ´ng hÆ¡n"
+HÃ³a ra máº·c Äáº¹p cÃ³ thá» khiáº¿n ÄÃ n Ã´ng "quyá»n lá»±c vÃ  thÃ nh cÃ´ng hÆ¡n"
+
+Sá»ng - 8 giá» trÆ°á»c
+Theo Wall Street Journal, máº·c Äáº¹p vÃ  thÃ nh cÃ´ng cÃ³ sá»± liÃªn quan nháº¥t Äá»nh chá»© khÃ´ng pháº£i má»t cÃ¢u ÄÃ¹a....
+PhÃ³ chá»§ tá»ch BKAV: Bphone 2017 Gold sáº½ chá» bÃ¡n táº¡i Dubai, ngÆ°á»i Viá»t muá»n mua thÃ¬ pháº£i mua hÃ ng xÃ¡ch tay
+PhÃ³ chá»§ tá»ch BKAV: Bphone 2017 Gold sáº½ chá» bÃ¡n táº¡i Dubai, ngÆ°á»i Viá»t muá»n mua thÃ¬ pháº£i mua hÃ ng xÃ¡ch tay
+
+Äiá»n thoáº¡i - 8 giá» trÆ°á»c
+ÄÃ¢y sáº½ lÃ  thá» trÆ°á»ng mang láº¡i lá»£i nhuáº­n vÃ  thÃ nh cÃ´ng cho BKAV vÃ  Bphone 2017 Gold?
+NgÆ°á»i thá»«a káº¿ Samsung nÃ©n nÆ°á»c máº¯t khi bá» Äá» nghá» Ã¡n tÃ¹ dÃ i nháº¥t lá»ch sá»­
+NgÆ°á»i thá»«a káº¿ Samsung nÃ©n nÆ°á»c máº¯t khi bá» Äá» nghá» Ã¡n tÃ¹ dÃ i nháº¥t lá»ch sá»­
+
+Tin ICT - 8 giá» trÆ°á»c
+Jay Y.Lee, PhÃ³ Chá»§ tá»ch Samsung Electronics, Äang Äá»i máº·t Ã¡n tÃ¹ dÃ i nháº¥t lá»ch sá»­ vá»i tÆ° cÃ¡ch lÃ£nh Äáº¡o...
+Google ch&#237;nh thá»©c giÆ°Æ¡ng cá» tráº¯ng táº¡i Nga: ngÆ°á»i Nga ÄÆ°á»£c quyá»n lá»±a chá»n Yandex khi t&#236;m kiáº¿m báº±ng Chrome tr&#234;n Android
+Google chÃ­nh thá»©c giÆ°Æ¡ng cá» tráº¯ng táº¡i Nga: ngÆ°á»i Nga ÄÆ°á»£c quyá»n lá»±a chá»n Yandex khi tÃ¬m kiáº¿m báº±ng Chrome trÃªn Android
+
+Äáº§u nÄm nay, Google ÄÃ£ thua trong má»t vá»¥ kiá»n chá»ng Äá»c quyá»n á» Nga vá» viá»c háº¡n cháº¿ pháº§n má»m trÃªn cÃ¡c...
+Tin ICT -- Äá»«ng bá» lá»¡ --
+Thay v&#236; di chuyá»n ngang, chiáº¿c drone n&#224;y c&#243; bay dá»c tÆ°á»ng y há»t má»t Äiá»p vi&#234;n
+Thay vÃ¬ di chuyá»n ngang, chiáº¿c drone nÃ y cÃ³ bay dá»c tÆ°á»ng y há»t má»t Äiá»p viÃªn
+
+Báº¡n cháº¯c cháº¯n sáº½ báº¥t ngá» khi tháº¥y chiáº¿c drone Äáº·c biá»t nÃ y cÃ³ kháº£ nÄng di chuyá»n theo phÆ°Æ¡ng dá»c y há»t...
+KhÃ¡m phÃ¡ -- Äá»«ng bá» lá»¡ --
+Lá» áº£nh thá»±c táº¿ Google Pixel 2, sáº½ c&#243; t&#249;y chá»n m&#224;u má»i, ngo&#224;i ra th&#236; cháº³ng c&#243; g&#236; Äáº·c biá»t
+Lá» áº£nh thá»±c táº¿ Google Pixel 2, sáº½ cÃ³ tÃ¹y chá»n mÃ u má»i, ngoÃ i ra thÃ¬ cháº³ng cÃ³ gÃ¬ Äáº·c biá»t
+
+Theo nguá»n tin rÃ² rá» thÃ¬ ÄÃ¢y lÃ  nguyÃªn máº«u thá»­ nghiá»m cá»§a Google Pixel 2 vÃ  nÃ³ thá»«a hÆ°á»ng nhiá»u nÃ©t...
+Mobile -- Äá»«ng bá» lá»¡ --
+VIDEO
+
+Video tá»± Äá»ng phÃ¡t
+
+RÃ¹ng mÃ¬nh vá»i pha Äiá»u khiá»n mÃ¡y bay tÆ°á»ng nhÆ° ÄÃ¢m sáº§m xuá»ng nÆ°á»c
+RÃ¹ng mÃ¬nh vá»i pha Äiá»u khiá»n mÃ¡y bay tÆ°á»ng...
+Thá»­ nghiá»m an toÃ n Tesla Model X
+Thá»­ nghiá»m an toÃ n Tesla Model X
+ÄÃ¡nh giÃ¡ chi tiáº¿t DJI Spark
+ÄÃ¡nh giÃ¡ chi tiáº¿t DJI Spark
+BÃ­ máº­t áº©n sau váº» hÃ o nhoÃ¡ng cá»§a Surface Studio: Äiá»m máº¡nh tá»« trong ra tá»i ngoÃ i, tá»« mÃ n hÃ¬nh cho tá»i cÃ¡c khá»p ná»i táº¡i chÃ¢n Äáº¿.
+BÃ­ máº­t áº©n sau váº» hÃ o nhoÃ¡ng cá»§a Surface...
+Xem Sony a9 trá» tÃ i báº¯t nÃ©t nhanh khÃ´ng tÆ°á»ng
+Xem Sony a9 trá» tÃ i báº¯t nÃ©t nhanh khÃ´ng...
+Andrew Huang sÃ¡ng tÃ¡c nháº¡c Techno báº±ng Fidget spinner/ Fidget Cube
+Andrew Huang sÃ¡ng tÃ¡c nháº¡c Techno báº±ng...
+KÃ­ch cá»¡ cá»§a Drogon to tá»i váº­y, liá»u cÃ³ chÃºt "ma thuáº­t" nÃ o ÄÃ³ giÃºp sá»©c cho nÃ³?
+KÃ­ch cá»¡ cá»§a Drogon to tá»i váº­y, liá»u cÃ³ chÃºt...
+Xem con robot Má»¹ biá»u trÆ°ng sá»©c máº¡nh, chuáº©n bá» cho cuá»c quyáº¿t Äáº¥u vá»i robot Nháº­n Báº£n.
+Xem con robot Má»¹ biá»u trÆ°ng sá»©c máº¡nh, chuáº©n...
+Xem video quay tá»« X27, cáº£nh ÄÃªm mÃ  rÃµ nhÆ° ban ngÃ y
+Xem video quay tá»« X27, cáº£nh ÄÃªm mÃ  rÃµ nhÆ°...
+Quy trÃ¬nh kiá»m tra cháº¥t lÆ°á»£ng cá»§a Samsung
+Quy trÃ¬nh kiá»m tra cháº¥t lÆ°á»£ng cá»§a Samsung...
+ÄÃ´Ì£ ÄÃ´Ìng hÃ´Ì casio
+ÄÃ´Ì£ ÄÃ´Ìng hÃ´Ì casio
+Nguá»n gá»c cá»§a biá»u tÆ°á»£ng nÃºt nguá»n mÃ  báº¡n báº¥m hÃ ng ngÃ y.
+Nguá»n gá»c cá»§a biá»u tÆ°á»£ng nÃºt nguá»n mÃ  báº¡n...
+Xem Sony a9 chá»¥p á» tá»c Äá» 20fps
+Xem Sony a9 chá»¥p á» tá»c Äá» 20fps
+Video quáº£ng cÃ¡o cá»§a Mouse Computer Nháº­t Báº£n khiáº¿n báº¡n khÃ´ng thá» rá»i máº¯t tá»« Äáº§u Äáº¿n cuá»i
+Video quáº£ng cÃ¡o cá»§a Mouse Computer Nháº­t Báº£n...
+TrÃªn tay Surface Studio Äáº§u tiÃªn á» Viá»t Nam: to, Äáº¹p, mÃ n hÃ¬nh cá»±c ká»³ áº¥n tÆ°á»£ng, Surface Dial xuáº¥t sáº¯c, giÃ¡ 77 triá»u
+TrÃªn tay Surface Studio Äáº§u tiÃªn á» Viá»t Nam:...
+Hy sinh chiÃªÌc iPhone 7 Plus Jet Black ÄÃªÌ coÌ iPhone 7 Plus PRODUCT (RED) mÄÌ£t trÆ°Æ¡Ìc maÌu Äen
+Hy sinh chiÃªÌc iPhone 7 Plus Jet Black ÄÃªÌ...
+15 chiÃªÌc Hilux ÄÃ´Ì chÆ¡i keÌo 1 chiÃªÌc Hilux thÃ¢Ì£t
+15 chiÃªÌc Hilux ÄÃ´Ì chÆ¡i keÌo 1 chiÃªÌc Hilux...
+Äoáº¡n video hai thanh gá» ghÃ©p vÃ o nhau hoÃ n háº£o ÄÆ°á»£c hÆ¡n triÃªu view trÃªn YouTube
+Äoáº¡n video hai thanh gá» ghÃ©p vÃ o nhau hoÃ n...
+Xem hacker ná»i tiáº¿ng biá»u diá»n hack báº¥t kÃ¬ ai trÃªn phá», ai Äi ngang qua lÃ  bá» hack, y há»t nhÆ° trong game Watch_Dogs
+Xem hacker ná»i tiáº¿ng biá»u diá»n hack báº¥t kÃ¬...
+Má» há»p vÃ  trÃªn tay chiáº¿c Nokia 3310 ÄÃ£ 17 tuá»i: Táº¥m vÃ© quay trá» vá» tuá»i thÆ¡
+Má» há»p vÃ  trÃªn tay chiáº¿c Nokia 3310 ÄÃ£ 17...
+2 thÃ¡ng trÆ°á»c | Theo TrÃ­ Thá»©c Tráº»
+HÃ£ng phim Disney sáº½ ra máº¯t dá»ch vá»¥ truyá»n hÃ¬nh trá»±c tuyáº¿n cá»§a riÃªng mÃ¬nh vÃ  Äá»i Äáº§u vá»i Netflix
+HÃ£ng phim Disney sáº½ ra máº¯t dá»ch vá»¥ truyá»n hÃ¬nh trá»±c tuyáº¿n cá»§a riÃªng mÃ¬nh vÃ  Äá»i Äáº§u vá»i Netflix
+
+Internet - 8 giá» trÆ°á»c
+Disney sáº½ ra máº¯t ná»n táº£ng giá»ng nhÆ° Netflix, vá»i ná»i dung cá»§a riÃªng mÃ¬nh.
+Hacker ÄÃ²i HBO lÆ°á»£ng tiá»n chuá»c 7 triá»u USD, náº¿u khÃ´ng sáº½ ÄÆ°a thÃªm ná»i dung Game of Thrones cÃ¹ng thÃ´ng tin nháº¡y cáº£m lÃªn máº¡ng
+Hacker ÄÃ²i HBO lÆ°á»£ng tiá»n chuá»c 7 triá»u USD, náº¿u khÃ´ng sáº½ ÄÆ°a thÃªm ná»i dung Game of Thrones cÃ¹ng thÃ´ng tin nháº¡y cáº£m lÃªn máº¡ng
+
+Tin ICT - 8 giá» trÆ°á»c
+Liá»u nhÃ  ÄÃ i cÃ³ chá»u thá»a hiá»p vá»i káº» xáº¥u?
+Lá» náº·ng, Uber quyáº¿t Äá»nh dá»«ng dá»ch vá»¥ cho thuÃª xe táº¡i Má»¹ chá» sau 2 nÄm hoáº¡t Äá»ng
+Lá» náº·ng, Uber quyáº¿t Äá»nh dá»«ng dá»ch vá»¥ cho thuÃª xe táº¡i Má»¹ chá» sau 2 nÄm hoáº¡t Äá»ng
+
+Tin ICT - 8 giá» trÆ°á»c
+Uber ÄÃ£ quyáº¿t Äá»nh thu gá»n vÃ  tiáº¿n tá»i ngá»«ng háº³n dá»ch vá»¥ cho thuÃª xe táº¡i Má»¹ sau khi cÃ´ng ty nÃ y phÃ¡t...
+Intel báº¥t ngá» cÃ´ng bá» lá»ch ra máº¯t Coffee Lake vÃ o 21/8, biáº¿n Kaby Lake trá» thÃ nh tháº¿ há» CPU cÃ³ vÃ²ng Äá»i ngáº¯n nháº¥t
+Intel báº¥t ngá» cÃ´ng bá» lá»ch ra máº¯t Coffee Lake vÃ o 21/8, biáº¿n Kaby Lake trá» thÃ nh tháº¿ há» CPU cÃ³ vÃ²ng Äá»i ngáº¯n nháº¥t
+
+MÃ¡y tÃ­nh - 8 giá» trÆ°á»c
+NgoÃ i ra cÃ¡c thÃ´ng tin vá» i3-8100 vÃ  i3-8350K cÅ©ng bá» rÃ² rá» ngay khi thÃ´ng tin vá» ngÃ y ra máº¯t xuáº¥t...
+NgÆ°á»i Viá»t vá»i hÃ ng cÃ´ng nghá» Viá»t: NhÆ° nhÃ  tuyá»n dá»¥ng nÃ³ng tÃ­nh vá»i gÃ£ sinh viÃªn khÃ´ng biáº¿t tá»± lÆ°á»£ng sá»©c mÃ¬nh
+NgÆ°á»i Viá»t vá»i hÃ ng cÃ´ng nghá» Viá»t: NhÆ° nhÃ  tuyá»n dá»¥ng nÃ³ng tÃ­nh vá»i gÃ£ sinh viÃªn khÃ´ng biáº¿t tá»± lÆ°á»£ng sá»©c mÃ¬nh
+
+Táº£n máº¡n - 8 giá» trÆ°á»c
+Sá»± tháº­t lÃ  ngÃ nh cÃ´ng nghá» cao cá»§a chÃºng ta Äi sau Trung Quá»c hÃ ng chá»¥c nÄm chá»© chÆ°a nháº¯c tá»i HÃ n Quá»c...
